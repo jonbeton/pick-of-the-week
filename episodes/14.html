@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"faeae334c5","applicationID":"40094494","transactionName":"IQsPQhdaCl8BFxpHQQBLC0MCUgpWFkpfQVMFCAQ=","queueTime":0,"applicationTime":108,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"faeae334c5",applicationID:"40094494"};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var i=n[t]={exports:{}};e[t][0].call(i.exports,function(n){var i=e[t][1][n];return r(i||n)},i,i.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(e,n,t){function r(){}function i(e,n,t){return function(){return o(e,[u.now()].concat(f(arguments)),n?null:this,t),n?void 0:this}}var o=e("handle"),a=e(4),f=e(5),c=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",d=l+"ixn-";a(p,function(e,n){s[n]=i(l+n,!0,"api")}),s.addPageAction=i(l+"addPageAction",!0),s.setCurrentRouteName=i(l+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,i="function"==typeof n;return o(d+"tracer",[u.now(),e,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return n.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],t),e}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=i(d+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){var t=e.getEntries();t.forEach(function(e){"first-paint"===e.name?c("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&c("timing",["fcp",Math.floor(e.startTime)])})}function i(e,n){var t=e.getEntries();t.length>0&&c("lcp",[t[t.length-1]])}function o(e){if(e instanceof s&&!l){var n,t=Math.round(e.timeStamp);n=t>1e12?Date.now()-t:u.now()-t,l=!0,c("timing",["fi",t,{type:e.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,f,c=e("handle"),u=e("loader"),s=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),f=new PerformanceObserver(i);try{a.observe({entryTypes:["paint"]}),f.observe({entryTypes:["largest-contentful-paint"]})}catch(p){}}if("addEventListener"in document){var l=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(e){document.addEventListener(e,o,!1)})}}},{}],3:[function(e,n,t){function r(e,n){if(!i)return!1;if(e!==i)return!1;if(!n)return!0;if(!o)return!1;for(var t=o.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}n.exports={agent:i,version:o,match:r}},{}],4:[function(e,n,t){function r(e,n){var t=[],r="",o=0;for(r in e)i.call(e,r)&&(t[o]=n(r,e[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],5:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,i=t-n||0,o=Array(i<0?0:i);++r<i;)o[r]=e[n+r];return o}n.exports=r},{}],6:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function i(e){function n(e){return e&&e instanceof r?e:e?c(e,f,o):o()}function t(t,r,i,o){if(!l.aborted||o){e&&e(t,r,i);for(var a=n(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function d(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||i(t)}function w(e,n){u(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:d,addEventListener:d,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(l.aborted=!0,s=l.backlog={})}var f="nr@context",c=e("gos"),u=e(4),s={},p={},l=n.exports=i();l.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(i.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[n]=r,r}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){i.buffer([e],r),i.emit(e,n,t)}var i=e("ee").get("handle");n.exports=r,r.ee=i},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=E.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();u(y,function(n,t){e[n]||(e[n]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function i(){"complete"===d.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=e("handle"),u=e(4),s=e("ee"),p=e(3),l=window,d=l.document,m="addEventListener",v="attachEvent",g=l.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:g,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1169.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=n.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),e(2),d[m]?(d[m]("DOMContentLoaded",o,!1),l[m]("load",r,!1)):(d[v]("onreadystatechange",i),l[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=e(6)},{}],"wrap-function":[function(e,n,t){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;n.exports=function(e,n){function t(e,n,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){l([u,"",[r,a,i],f])}s(n+"start",[r,a,i],f);try{return c=e.apply(a,r)}catch(p){throw s(n+"err",[r,a,p],f),p}finally{s(n+"end",[r,a,c],f)}}return r(e)?e:(n||(n=""),nrWrapper[a]=e,p(e,nrWrapper),nrWrapper)}function u(e,n,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<n.length;c++)f=n[c],a=e[f],r(a)||(e[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||n){var o=c;c=!0;try{e.emit(t,r,i,n)}catch(a){l([a,t,r,i])}c=o}}function p(e,n){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(e);return t.forEach(function(t){Object.defineProperty(n,t,{get:function(){return e[t]},set:function(n){return e[t]=n,n}})}),n}catch(r){l([r])}for(var i in e)f.call(e,i)&&(n[i]=e[i]);return n}function l(n){try{e.emit("internal-error",n)}catch(t){}}return e||(e=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta name="generator" content="Fireside 2.1">
+    <meta name="title" content="Smashing Security: 014: Protecting webmail - a Smashing Security splinter">
+    <title>Smashing Security: 014: Protecting webmail - a Smashing Security splinter</title>
+<!--
+
+        ______________                   ______________
+        ___  ____/__(_)_____________________(_)_____  /____
+        __  /_   __  /__  ___/  _ \_  ___/_  /_  __  /_  _ \
+        _  __/   _  / _  /   /  __/(__  )_  / / /_/ / /  __/
+        /_/      /_/  /_/    \___//____/ /_/  \__,_/  \___/
+
+        Fireside v2.1
+
+-->
+    <link rel="canonical" href="https://www.smashingsecurity.com/014-protecting-webmail-a-smashing-security-splinter">
+    <meta name="description" content="What can you do to better protect your online email accounts? In this special &quot;splinter&quot; episode (or should it be a &quot;shard&quot;?) regular hosts Graham Cluley and Carole Theriault discuss with Paul Ducklin tips on how to defend your...">
+    <meta name="author" content="Graham Cluley, Carole Theriault">
+      <meta name="apple-itunes-app" content="app-id=1195001633" />
+    <link rel="alternate" type="application/rss+xml" title="Smashing Security RSS Feed" href="http://www.smashingsecurity.com/rss" />
+    <link rel="alternate" title="Smashing Security JSON Feed" type="application/json" href="https://www.smashingsecurity.com/json" />
+    <link rel="shortcut icon" type="image/png" href="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/favicon.png" />
+    <link rel="apple-touch-icon" type="image/png" href="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/touch_icon_iphone.png" sizes="57x57" />
+    <link rel="apple-touch-icon" type="image/png" href="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/touch_icon_iphone.png" sizes="114x114" />
+    <link rel="apple-touch-icon" type="image/png" href="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/touch_icon_ipad.png" sizes="72x72" />
+    <link rel="apple-touch-icon" type="image/png" href="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/touch_icon_ipad.png" sizes="144x144" />
+    <link rel="stylesheet" media="all" href="/assets/minimal-dark/minimal-dark-ca6d0b6ccaa8dbd9bb415422d55d44bd92a0279f64301c83274c97ae02743f0f.css" data-turbolinks-track="true" />
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="GMtACbG8ovd5D3cclJLHbDcEJHHFJ+bTRceA4yVBzJb5uFfAck/IDq+VeSpWmoz53pCqhZEdkQCp0ZJ1lhqOgA==" />
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-17328559-3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-17328559-3');
+
+    document.addEventListener('turbolinks:load', event => {
+      if (typeof gtag === 'function') {
+        gtag('config', 'UA-17328559-3', {
+          'page_location': event.data.url
+        });
+      }
+    });
+  </script>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-17328559-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script>
+$(document).ready(function(){
+
+    $(".links").append("<p align=\"center\"><a class=\"btn-patreon\" href=\"https://www.patreon.com/smashingsecurity\" title=\"Become a Patron!\"><img src=\"https://files.fireside.fm/file/fireside-uploads/images/d/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/5zhW1v6K.png\" alt=\"Become a Patron!\"></a></p>");
+});
+</script>
+
+
+<style>
+
+a.btn-patreon img {
+    height: 36px;
+}
+
+body
+{
+font-family: Arial, Helvetica, sans-serif;
+}
+.tftable td {
+    text-align: center;
+  
+}
+
+.fixed-header {
+    background: #2a2a2a;
+}
+
+.hero-background {
+    max-width: 600px;
+}
+
+.fixed-header-nav a {
+ background:
+#676767;
+padding: 5px 10px;
+color:
+white;
+text-transform: uppercase;
+font-size: 11px;
+}
+
+h6 {
+    font-size: 1em;
+ }
+
+td.merch-item-title {
+    padding-top: 2em;
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+.tftable img {
+    padding: 10px;
+   border-radius: 45px;
+}
+
+.prose p>a {
+    font-weight: bold;
+}
+
+
+
+.prose a {
+    box-shadow: none;
+   color: #febc01;
+
+}
+
+.prose a:hover
+{
+text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: underline!important;
+}
+
+.episode-sponsors header {
+    text-transform: none;
+ color: #febc01;
+}
+
+.episode-sponsors a {
+    color: white;
+}
+
+
+
+.episode-sponsors p {
+    font-size: 16px;
+    line-height: 1.4;
+    color: white;
+ }
+
+
+
+
+.episode-sponsors br {
+    line-height: 2em;
+}
+
+.episode-sponsors {
+    background: #414141;
+border: 4px solid #d6d6d6
+}
+
+.episode-sponsors h5 {
+    color: white;
+background-color: #fb6542;
+}
+
+
+.episode-sponsors footer {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: courier, consolas;
+}
+
+
+.list-item p {
+    display: inline;
+}
+
+.list-item>h6 {
+    color: gray;
+}
+
+.links .btn, .links ul.pagination a, ul.pagination .links a
+{
+background-color: #676767;
+}
+
+</style>
+
+    <script src="/assets/sub-4a953e0b9155c9ba7649b531dace6a659fefd5421bede142d26447153543feb4.js" data-turbolinks-track="true"></script>
+      <link rel="stylesheet" media="all" href="/assets/dracula_embed-59f07a601dd6bde7326833e21562d2bb99edafbf6b4e97e1b0d61275896a7a48.css" data-turbolinks-track="true" />
+
+      <script src="/assets/dracula_wavesurfer-5f51d9f7243fecf90a312dd4ff40795b05d326e80a82c1547604e7f02e6f39e6.js" data-turbolinks-track="true"></script>
+  <script src="/assets/dracula_embed-8d7376fb876958f66749ea3d18650b7df2cdc58a9e0a894e6869885f5e8ff472.js" data-turbolinks-track="true"></script>
+
+      <meta property="fb:app_id" content="373240746396508">
+  <meta property="og:title" content="014: Protecting webmail - a Smashing Security splinter" />
+  <meta property="og:url" content="http://www.smashingsecurity.com/014-protecting-webmail-a-smashing-security-splinter" />
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="What can you do to better protect your online email accounts? In this special &quot;splinter&quot; episode (or should it be a &quot;shard&quot;?) regular hosts Graham Cluley and Carole Theriault discuss with Paul Ducklin tips on how to defend your..." />
+  <meta property="og:audio:secure_url" content="https://aphid.fireside.fm/d/1437767933/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/dce88a70-b88e-4525-8de6-3947c411d1e1.mp3" />
+  <meta property="og:audio:type" content="audio/vnd.facebook.bridge" />
+  <meta property="og:site_name" content="Smashing Security" />
+  <meta property="og:image" content="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/cover_medium.jpg?v=1" />
+  <meta property="og:imageWidth" content="1400" />
+  <meta property="og:imageHeight" content="1400" />
+
+    	<meta name="twitter:card" content="player" />
+  <meta name="twitter:player" content="https://fireside.fm/s/5GHZA4LC+Go9uSnG3/twitter" />
+  <meta name="twitter:player:width" content="290" />
+  <meta name="twitter:player:height" content="58" />
+  <meta name="twitter:player:stream" content="https://aphid.fireside.fm/d/1437767933/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/dce88a70-b88e-4525-8de6-3947c411d1e1.mp3" />
+  <meta name="twitter:player:stream:content_type" content="audio/mpeg" />
+  <meta name="twitter:site" content="@firesidefm">
+  <meta name="twitter:url" content="https://www.smashingsecurity.com/014-protecting-webmail-a-smashing-security-splinter">
+  <meta name="twitter:title" content="Smashing Security: 014: Protecting webmail - a Smashing Security splinter">
+  <meta name="twitter:description" content="What can you do to better protect your online email accounts? In this special &quot;splinter&quot; episode (or should it be a &quot;shard&quot;?) regular hosts Graham Cluley and Carole Theriault discuss with Paul Ducklin tips on how to defend your...">
+  <meta name="twitter:image" content="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/cover_medium.jpg?v=1">
+
+  </head>
+  <body>
+    
+<div id="fb-root"></div>
+
+<header class="fixed-header">
+  <a class="fixed-header-logo" href="http://www.smashingsecurity.com">
+    <img id="cover-small" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/cover_small.jpg" />
+</a>  <div class="fixed-header-hamburger">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  <ul class="fixed-header-nav">
+
+    <li><a href="/episodes">Episodes</a></li>
+
+      <li><a href="/hosts">Hosts</a></li>
+
+      <li><a href="/guests">Guests</a></li>
+
+      <li><a href="/contact">Contact</a></li>
+
+
+      <li><a href="/search">Search</a></li>
+
+
+      <li><a href="/sponsors">Sponsor</a></li>
+      <li><a href="/store">Store</a></li>
+
+      <li><a href="https://www.patreon.com/smashingsecurity">Patreon</a></li>
+      <li><a href="https://www.smashingsecurity.com/voicemail">Voicemail</a></li>
+
+    <li><a href="/subscribe">Subscribe</a></li>
+  </ul>
+</header>
+
+
+<main>
+  
+
+
+<header class="hero">
+  <div class="hero-columns">
+    <div class="hero-info">
+      <h1>014: Protecting webmail - a Smashing Security splinter</h1>
+      <div class="episode-details">
+        
+<div id="fireside-player" class="fsplyr-wrap" data-started="false" data-theme="minimal-dark" data-player-type="embed">
+  <div class="fsplyr-layout-left">
+    <div class="fsplyr-meta">
+      <figure class="fsplyr-poster">
+        <div style="background-image: url('https://assets.fireside.fm/file/fireside-images/podcasts/images/d/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/cover_medium.jpg?v=1');">
+          <a target="_parent" href="http://www.smashingsecurity.com/014-protecting-webmail-a-smashing-security-splinter">
+            <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/cover_medium.jpg?v=1" alt="Poster Image" />
+</a>        </div>
+      </figure>
+    </div>
+  </div>
+
+  <div class="fsplyr-layout-right">
+    <audio class="fsplyr-element fsplyr-sr-only" preload="none">
+      <source src="https://media.fireside.fm/file/fireside-audio/podcasts/audio/d/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/episodes/d/dce88a70-b88e-4525-8de6-3947c411d1e1/dce88a70-b88e-4525-8de6-3947c411d1e1.mp3" type="audio/mpeg" />
+      Your browser does not support the audio tag.
+    </audio>
+
+    <div class="fsplyr-title">
+      <div class="fsplyr-episode">
+      </div>
+    </div>
+
+    <div class="fsplyr-display">
+      <button aria-label="Play or Pause" class="btn" data-plyr="play" data-playing="false"><svg class="pause-circle" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><defs><style>.cls-1{fill:#fff;}</style></defs><title>pause</title><path class="cls-1" d="M24,4A20,20,0,1,0,44,24,20,20,0,0,0,24,4ZM21,33H16V15h5Zm11,0H27V15h5Z" transform="translate(-4 -4)"/></svg><svg class="play-circle" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><defs><style>.cls-1{fill:#fff;}</style></defs><title>play</title><path class="cls-1" d="M24,4A20,20,0,1,0,44,24,20,20,0,0,0,24,4ZM17,33V15l18,9Z" transform="translate(-4 -4)"/></svg></button>
+
+      <div class="fsplyr-waveform"></div>
+    </div>
+
+    <div class="fsplyr-controls external">
+      <button aria-label="Open Share and Subscribe Dialog" class="btn" data-plyr="overlay"><i class="fas fa-share-alt"></i> Share</button>
+
+      <a class="btn" target="_parent" href="https://aphid.fireside.fm/d/1437767933/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/dce88a70-b88e-4525-8de6-3947c411d1e1.mp3"><i class="fas fa-download"></i> Download</a>
+
+      <a class="btn" target="_parent" href="http://www.smashingsecurity.com/rss"><i class="fas fa-rss"></i> Subscribe</a>
+
+    </div>
+
+    <div class="fsplyr-controls internal">
+      <div class="fsplyr-time">
+        <div class="fsplyr-time-current" aria-label="Current time">00:00:00</div>
+        <span>/</span>
+        <div class="fsplyr-time-duration" aria-label="Duration">00:30:33</div>
+      </div>
+
+      <div class="fsplyr-layout-controls">
+        <button aria-label="Skip Back 15 Seconds" class="btn fsplyr-skip" data-plyr="rewind"><svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 42"><defs><style>.cls-1{fill:#fff;}.cls-2{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}</style></defs><title>skip-backward</title><path class="cls-1" d="M24,1,16,7l8,6Z" transform="translate(-5 -1)"/><path class="cls-1" d="M17,1,9,7l8,6Z" transform="translate(-5 -1)"/><path class="cls-2" d="M21,7h3A17,17,0,1,1,7,24" transform="translate(-5 -1)"/><path class="cls-1" d="M21,31H18V20.65L15,22V19.54L20.7,17H21Z" transform="translate(-5 -1)"/><path class="cls-1" d="M23,24.34,24.15,17H32v2.47H26.57l-.57,3a5.54,5.54,0,0,1,2.57-.5,4.26,4.26,0,0,1,3.28,1.22A4.08,4.08,0,0,1,33,26.36a4.78,4.78,0,0,1-.62,2.41,4.14,4.14,0,0,1-1.72,1.65A5.58,5.58,0,0,1,28,31a6,6,0,0,1-2.52-.54A4.39,4.39,0,0,1,23.66,29,3.15,3.15,0,0,1,23,27h3a1.5,1.5,0,0,0,.5,1.09,2.48,2.48,0,0,0,1.51.44c1.12,0,2-.79,2-2.38S29.36,24,28,24a2.87,2.87,0,0,0-2,1Z" transform="translate(-5 -1)"/></svg></button>
+
+        <button aria-label="Change Playback Speed" class="btn" data-plyr="speed" data-value="1.0"><span><i class="val">1.0</i>x</span></button>
+
+        <button aria-label="Skip Forward 15 Seconds" class="btn fsplyr-skip" data-plyr="fast-forward"><svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 42"><defs><style>.cls-1{fill:#fff;}.cls-2{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}</style></defs><title>skip-forward</title><path class="cls-1" d="M24,13l8-6L24,1Z" transform="translate(-5 -1)"/><path class="cls-1" d="M31,13l8-6L31,1Z" transform="translate(-5 -1)"/><path class="cls-2" d="M41,24A17,17,0,1,1,24,7h3" transform="translate(-5 -1)"/><path class="cls-1" d="M21,31H18V20.65L15,22V19.54L20.7,17H21Z" transform="translate(-5 -1)"/><path class="cls-1" d="M23,24.34,24.15,17H32v2.47H26.57l-.57,3a5.54,5.54,0,0,1,2.57-.5,4.26,4.26,0,0,1,3.28,1.22A4.08,4.08,0,0,1,33,26.36a4.78,4.78,0,0,1-.62,2.41,4.14,4.14,0,0,1-1.72,1.65A5.58,5.58,0,0,1,28,31a6,6,0,0,1-2.52-.54A4.39,4.39,0,0,1,23.66,29,3.15,3.15,0,0,1,23,27h3a1.5,1.5,0,0,0,.5,1.09,2.48,2.48,0,0,0,1.51.44c1.12,0,2-.79,2-2.38S29.36,24,28,24a2.87,2.87,0,0,0-2,1Z" transform="translate(-5 -1)"/></svg></button>
+      </div>
+
+      <button aria-label="Open Share and Subscribe Dialog" class="btn fsplyr-settings" data-plyr="overlay"><i class="fas fa-cog"></i></button>
+
+      <div data-plyr="volume">
+        <i class="fas fa-volume-off"></i>
+        <progress class="fsplyr-progress volume" max="100" value="60"></progress>
+      </div>
+    </div>
+
+    <progress class="fsplyr-progress playback" max="100" value="0"></progress>
+  </div>
+
+  <div class="fsplyr-overlay">
+    <div class="fsplyr-sharing">
+      <div class="fsplyr-sharing-left">
+        <div>
+        <label class="label-share-link">Share Page</label>
+        <input class="copy copy-share-link" type="text" value="https://fireside.fm/s/5GHZA4LC+Go9uSnG3" />
+        <button class="btn copy copy-share-link"><i class="fas fa-copy"></i> Copy</button>
+        </div>
+        <div>
+        <label class="label-share-embed">Embed Code</label>
+        <input class="copy copy-share-embed" type="text" value="&lt;iframe src=&quot;https://fireside.fm/player/v2/5GHZA4LC+Go9uSnG3?theme=dark&quot; width=&quot;740&quot; height=&quot;200&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;" />
+        <button class="btn copy copy-share-embed"><i class="fas fa-copy"></i> Copy</button>
+        </div>
+      </div>
+      <div class="fsplyr-sharing-right">
+        <label>Subscribe &amp; Share</label>
+
+        <a target="_parent" href="http://www.smashingsecurity.com/rss"><i class="fas fa-rss"></i> RSS Feed</a>
+
+
+        <a target="_parent" href="https://aphid.fireside.fm/d/1437767933/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/dce88a70-b88e-4525-8de6-3947c411d1e1.mp3"><i class="fas fa-download"></i> Download (28.8 MB)</a>
+
+        <a id="timestamp_link" target="_parent" href="/014-protecting-webmail-a-smashing-security-splinter?t=0"><i class="fas fa-link"></i> Link with Timestamp</a>
+      </div>
+    </div>
+    <button class="btn close" data-plyr="overlay"><i class="fas fa-times"></i></button>
+  </div>
+
+</div>
+
+<script>
+  // shim, if needed
+  if (!getUrlParameter) {
+    function getUrlParameter(sParam) {
+      var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+      sURLVariables = sPageURL.split('&'),
+      sParameterName,
+      i;
+      for (i = 0; i < sURLVariables.length; i++) {
+        sParameterName = sURLVariables[i].split('=');
+        if (sParameterName[0] === sParam) {
+        return sParameterName[1] === undefined ? true : sParameterName[1];
+        }
+      }
+    }
+  }
+  // globals
+  window.playerDownload = "https://aphid.fireside.fm/d/1437767933/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/dce88a70-b88e-4525-8de6-3947c411d1e1.mp3";
+  window.playerDuration = parseInt(1833);
+  window.playerShare = "/014-protecting-webmail-a-smashing-security-splinter";
+  window.playerTheme = "minimal-dark";
+  window.playerTime = getUrlParameter('t') ? getUrlParameter('t') : 0;
+</script>
+      </div>
+      <div class="columns">
+        <div class="column">
+          <p>
+            <i class="fas fa-calendar-alt"></i>
+            March 30th, 2017
+          </p>
+          <p>
+            <i class="fas fa-clock"></i>
+            30 mins 33 secs
+          </p>
+        </div>
+        <div class="column">
+          <p>
+            <a id="timestamp_link" href="/014-protecting-webmail-a-smashing-security-splinter?t=0"><i class="fas fa-link"></i> Link with Timestamp</a>
+          </p>
+          <p><a href="https://aphid.fireside.fm/d/1437767933/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/dce88a70-b88e-4525-8de6-3947c411d1e1.mp3"><i class="fas fa-download"></i> Download MP3 (28.8 MB)</a></p>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column">
+          <h5>
+            Your Hosts
+          </h5>
+          <ul class="episode-hosts">
+              <li>
+                <a title="Graham Cluley" href="/hosts/graham-cluley">
+                  <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/hosts/9/96e9d8eb-218d-40ff-8f41-ffc78f903b7f/avatar_small.jpg" />
+</a>              </li>
+              <li>
+                <a title="Carole Theriault" href="/hosts/carole-theriault">
+                  <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/hosts/1/15e8ae5d-9dd5-4957-bafc-4fb5c689cfb1/avatar_small.jpg" />
+</a>              </li>
+          </ul>
+        </div>
+        <div class="column">
+            <h5>
+              Special Guest
+            </h5>
+            <ul class="episode-hosts">
+                <li>
+                  <a title="Paul Ducklin" href="/guests/duck">
+                    <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/d/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/guests/3/3e3dbb3d-3617-4843-9cc9-e9d9d48a1b4f/avatar_small.jpg" />
+</a>                </li>
+            </ul>
+        </div>
+      </div>
+        <h5>Tags</h5>
+        <div class="tags">
+            <a class="tag" href="/tags/passwords"><i class="fas fa-tag"></i> passwords</a>
+            <a class="tag" href="/tags/phishing"><i class="fas fa-tag"></i> phishing</a>
+            <a class="tag" href="/tags/2fa"><i class="fas fa-tag"></i> 2fa</a>
+            <a class="tag" href="/tags/fappening"><i class="fas fa-tag"></i> fappening</a>
+        </div>
+    </div>
+  </div>
+</header>
+
+<nav class="links">
+  <ul>
+      <li><a class="btn btn--small" href="http://www.smashingsecurity.com/rss"><i class="fas fa-rss"></i> RSS</a></li>
+      <li><a class="btn btn--small" href="https://podcasts.apple.com/gb/podcast/smashing-security/id1195001633"><i class="fab fa-apple"></i> Apple Podcasts</a></li>
+      <li><a class="btn btn--small" href="https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuc21hc2hpbmdzZWN1cml0eS5jb20vcnNz"><i class="fab fa-google"></i> Google Podcasts</a></li>
+      <li><a class="btn btn--small" href="https://overcast.fm/itunes1195001633/smashing-security"><i class="fas fa-headphones"></i> Overcast</a></li>
+      <li><a class="btn btn--small" href="http://pca.st/podcast/4da3e600-b831-0134-106e-25324e2a541d"><i class="fas fa-headphones"></i> Pocket Casts</a></li>
+      <li><a class="btn btn--small" href="https://open.spotify.com/show/3J7pBxEu43nCnRTSXaan8S"><i class="fab fa-spotify"></i> Spotify</a></li>
+      <li>
+    <a href="#share_modal" class="btn btn--small" data-modal><i class="fas fa-share-square fa-fw"></i> Share</a>
+  </li>
+
+  </ul>
+</nav>
+
+
+<section class="split">
+  <div class="split-primary prose">
+    <header class="section-header">
+      <h3>
+        About this Episode
+      </h3>
+    </header>
+
+    <p><p>What can you do to better protect your online email accounts?</p> <p>In this special &quot;splinter&quot; episode (or should it be a &quot;shard&quot;?) regular hosts Graham Cluley and Carole Theriault discuss with Paul Ducklin tips on how to defend your Gmail/Yahoo/Hotmail/Outlook/etc account.</p> <p>SHOW NOTES:</p> <ul> <li><a href= "http://www.smashingsecurity.com/passwords">Passwords - a Smashing Security splinter</a></li> <li><a href= "https://www.grahamcluley.com/better-protect-google-account-step-verification-google-authenticator/"> How to better protect your Google account with two-step verification and Google Authenticator</a> - Graham Cluley</li> <li><a href= "https://www.grahamcluley.com/protect-yahoo-account-2sv/">How to protect your Yahoo account with two-step verification (2SV)</a> - Graham Cluley</li> <li><a href= "https://techcrunch.com/2016/07/25/nist-declares-the-age-of-sms-based-2-factor-authentication-over/"> NIST declares the age of SMS-based 2-factor authentication over</a> - TechCrunch</li> <li><a href= "https://www.grahamcluley.com/lesson-learn-celebgate-nude-photo-hack/"> The lesson we all must learn from the Celebgate nude photo hack</a> - Graham Cluley</li> </ul></p>
+
+<p>Follow the show on Twitter at <a href= "https://twitter.com/smashinsecurity">@SmashinSecurity</a>, or <a href="http://www.smashingsecurity.com/">visit our website</a> for more episodes.</p>
+
+<p>Remember: Subscribe on <a href= "https://www.grahamcluley.com/go/itunes/">Apple Podcasts</a>, or your favourite podcast app, to catch all of the episodes as they go live. Thanks for listening!</p>
+
+<p>Warning: This podcast may contain nuts, adult themes, and rude language.</p>
+
+
+      <a target="_blank" rel="payment" href="https://www.patreon.com/smashingsecurity">Support Smashing Security</a>
+
+
+      <header class="section-header">
+        <h3>
+          Episode Comments
+        </h3>
+      </header>
+      <div id="disqus_thread"></div>
+  </div>
+
+  <aside class="split-secondary">
+      <div class="episode-sponsors">
+        <h5>Episode Sponsors</h5>
+        <ul>
+            <li>
+              <a href="https://recordedfuture.com/intel">
+                <header>
+                  Recorded Future
+                </header>
+                <p>Recorded Future is the real-time threat intelligence company whose patented machine learning technology continuously analyzes technical, open, and dark web sources to give organizations unmatched insight into emerging threats.</p>
+
+<p>Sign up for free daily threat intelligence updates at <a href="https://recordedfuture.com/intel" rel="nofollow">https://recordedfuture.com/intel</a></p>
+
+</a>            </li>
+        </ul>
+      </div>
+  </aside>
+</section>
+
+
+  <nav class="episode-nav">
+      <a class="btn" href="/013-assault-with-a-deadly-tweet">← Previous episode</a>
+      <a class="btn" href="/015-bad-vibrations">Next episode →</a>
+  </nav>
+</main>
+
+<footer class="footer">
+  <h5 class="footer-title">
+    <strong>
+      Smashing Security
+    </strong>
+        is © 2020 by Graham Cluley &amp; Carole Theriault
+  </h5>
+  <ul class="footer-nav">
+
+    <li><a href="/episodes">Episodes</a></li>
+
+      <li><a href="/hosts">Hosts</a></li>
+
+      <li><a href="/guests">Guests</a></li>
+
+      <li><a href="/contact">Contact</a></li>
+
+
+      <li><a href="/search">Search</a></li>
+
+
+      <li><a href="/sponsors">Sponsor</a></li>
+      <li><a href="/store">Store</a></li>
+
+      <li><a href="https://www.patreon.com/smashingsecurity">Patreon</a></li>
+      <li><a href="https://www.smashingsecurity.com/voicemail">Voicemail</a></li>
+
+    <li><a href="/subscribe">Subscribe</a></li>
+  </ul>
+</footer>
+
+
+<div id="share_modal" class="modal">
+  <header class="modal-header">
+    Share This Episode
+  </header>
+  <div class="modal-content">
+    <form action="#" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5SsiQyvwjNAFd0FV63/O7buBa1IBxcNjoPIzvdbs8oYjFht+oO1i+vt2y2fmYZqYC67ral7+qMMaU9aUZ6lFFw==" />
+      <h5>Simple Sharing Page</h5>
+      <input type="text" name="share_url" id="share_url" value="https://fireside.fm/s/5GHZA4LC+Go9uSnG3" />
+      <p>A clean, simple landing page with an embedded HTML5 audio player (and audio cards for Twitter and Facebook).</p>
+
+      <h5>Embeddable Audio Player</h5>
+      <input type="text" name="embed" id="embed" value="&lt;iframe src=&quot;https://fireside.fm/player/v2/5GHZA4LC+Go9uSnG3?theme=dark&quot; width=&quot;740&quot; height=&quot;200&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;" />
+      <p>Paste this code to embed an HTML5 audio player with controls.</p>
+      <h5>Download URL</h5>
+      <input type="text" name="share_url" id="share_url" value="https://aphid.fireside.fm/d/1437767933/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/dce88a70-b88e-4525-8de6-3947c411d1e1.mp3" />
+      <p>Useful if you want to create a direct download link, embed in your own player, post from another publishing engine, link to from Patreon, etc.'</p>
+</form>    <h5>Social Network Quick Links</h5>
+    <div class="modal-share">
+      <a class="twitter-share-button"
+        data-size="large"
+        data-url="https://fireside.fm/s/5GHZA4LC+Go9uSnG3"
+        data-via="firesidefm"
+        href="https://twitter.com/intent/tweet?text=I&#39;m%20listening%20to%20Smashing%20Security:%20014:%20Protecting%20webmail%20-%20a%20Smashing%20Security%20splinter">
+        Tweet</a>
+
+      <div class="fb-share-button"
+        data-href="https://fireside.fm/s/5GHZA4LC+Go9uSnG3"
+        data-layout="button"
+        data-size="large">
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<script>
+  // Get the timecode (in seconds) from the URL
+  var seconds = getUrlParameter('t');
+
+  $(function() {
+    // Create a new instance of the MediaElement Player
+    $('#audio_player').mediaelementplayer({
+      audioHeight: 40,
+      startVolume: 1.0,
+      alwaysShowHours: true,
+      features: ['playpause','progress','current','|','duration','volume','speed'],
+      success: function(mediaElement, originalNode) {
+        mediaElement.addEventListener('loadeddata', function() {
+          // Player is ready
+          // Set the playhead based on URL parameters
+          if (parseInt(seconds) > 0) {
+            mediaElement.setCurrentTime(parseInt(seconds));
+          }
+        }, false);
+
+        // When the user actually presses play, send a request to Aphid to track
+        // the play and update the play-count in a more accurate fashion.
+        // This avoids the false-downloads that Safari generates on page-load.
+        var playcount = 0;
+        mediaElement.addEventListener('playing', function() {
+          if (playcount==0) {
+            jQuery.get("https://aphid.fireside.fm/d/1437767933/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/dce88a70-b88e-4525-8de6-3947c411d1e1.mp3");
+            playcount += 1;
+          }
+        }, false);
+
+        // Listener to update the Link with Timecode URL
+        mediaElement.addEventListener('timeupdate', function(e) {
+          $("#timestamp_link").prop("href", "/014-protecting-webmail-a-smashing-security-splinter?t=" + parseInt(mediaElement.currentTime));
+        }, false);
+      }
+    });
+
+    // Activate modals
+    $('a[data-modal]').click(function(event) {
+      $(this).modal({
+        fadeDuration: 100,
+      });
+      return false;
+    });
+  });
+
+  // Twitter Share code
+  window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    };
+
+    return t;
+  }(document, "script", "twitter-wjs"));
+
+  // Facebook Share Code
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=199922820059602";
+    fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+
+    // Disqus
+    var disqus_config = function () {
+      this.page.url = 'https://www.smashingsecurity.com/014-protecting-webmail-a-smashing-security-splinter';
+      this.page.identifier = 'dce88a70-b88e-4525-8de6-3947c411d1e1';
+    };
+
+    (function() {
+      var d = document, s = d.createElement('script');
+      s.src = '//smashing-security.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+    <footer class="site-footer">
+  <a title="Powered by Fireside" class="fireside-link" href="https://fireside.fm">
+    <img style="margin-bottom: .5em;" src="/assets/logo/logo-256x256-1b9cff0eaea622bb3cd0ae098de31080dd3e0473f3b2ed285279abc1661f3f16.png" />
+    <span>Powered by Fireside</span>
+</a></footer>
+
+  </body>
+  
+</html>
