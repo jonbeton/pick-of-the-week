@@ -1,3 +1,11 @@
+### [035: Up the Roomba with mandatory Chinese spyware](https://www.smashingsecurity.com/35)
+* [Griffin BreakSafe Magnetic USB C Charging Cable](https://griffintechnology.com/us/breaksafe-magnetic-usb-c-power-cable)  — To make your upgraded MacBook Pro a little less of a downgrade.
+* [USB-C MagSafe - Will it work!?!?](https://www.youtube.com/watch?v=BmfgIPoKX9w)  — iJustine's video on YouTube.
+* [Chipotle Blames Norovirus Outbreak on a Sick Employee](https://www.eater.com/2017/7/26/16029236/chipotle-norovirus-apology-food-safety-protocols)  — Pick of the week?
+* [Jim'll Paint It](http://jimllpaintit.tumblr.com/)  — See what Microsoft Paint can do in the hands of a genius.
+* [MS Paint is here to stay](https://blogs.windows.com/windowsexperience/2017/07/24/ms-paint-stay/)  — Microsoft.
+
+
 ### [Smashing Security: 034: The pen is mightier than the password](https://www.smashingsecurity.com/34)
 * [BBC Three - Fleabag, Series 1](http://www.bbc.co.uk/programmes/p040tlqx)
 * [IRL Podcast: Online Life is Real Life](https://irlpodcast.org/)
