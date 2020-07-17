@@ -11,7 +11,7 @@
 * [IRL Podcast: Online Life is Real Life](https://irlpodcast.org/)
 * [Google Glass is officially back with a clearer vision | Engadget](https://www.engadget.com/2017/07/18/google-glass-is-officially-back-with-a-clearer-vision/)
 
-### [Smashing Security: 033: Smashing Security: 033: 1Password, net neutrality, and spatchcock chicken](https://www.smashingsecurity.com/33)
+### [Smashing Security: 033: 1Password, net neutrality, and spatchcock chicken](https://www.smashingsecurity.com/33)
 * [Southern on Twitter: &quot;Hi, Eddie here! Here on Work Experience and ready to answer your questions! 😊&quot;](https://twitter.com/SouthernRailUK/status/884769193366867968)
 * [The Red Pill - Wikipedia](https://en.wikipedia.org/wiki/The_Red_Pill)
 * [Rapidfire Chimney Starter | Official Weber® Website](https://www.weber.com/GB/en/accessories/charcoal-briquettes/rapidfire-chimney-starter)
