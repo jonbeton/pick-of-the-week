@@ -1,4 +1,4 @@
-### [Smashing Security 035: Up the Roomba with mandatory Chinese spyware](https://www.smashingsecurity.com/35)
+### [Smashing Security: 035: Up the Roomba with mandatory Chinese spyware](https://www.smashingsecurity.com/35)
 * [Griffin BreakSafe Magnetic USB C Charging Cable](https://griffintechnology.com/us/breaksafe-magnetic-usb-c-power-cable)  — To make your upgraded MacBook Pro a little less of a downgrade.
 * [USB-C MagSafe - Will it work!?!?](https://www.youtube.com/watch?v=BmfgIPoKX9w)  — iJustine's video on YouTube.
 * [Chipotle Blames Norovirus Outbreak on a Sick Employee](https://www.eater.com/2017/7/26/16029236/chipotle-norovirus-apology-food-safety-protocols)  — Pick of the week?
