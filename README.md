@@ -1,10 +1,10 @@
 ### [Smashing Security: 187: Huawei ban, MGM hack, and a contact-tracing cock-up](http://www.smashingsecurity.com/187)
 
-* [How do you pronounce &#34;Gigawatt&#34;?](https://twitter.com/waldojaquith/status/1282130509192142849) — Waldo Jaquith on Twitter.
+* [Windowswap.](https://window-swap.com/)
+* [How do you pronounce &#34;Gigawatt&#34;?](https://window-swap.com/)
 * [Metric (SI) Prefixes](https://www.nist.gov/pml/weights-and-measures/metric-si-prefixes) — NIST.
 * [No podcast.](https://www.theheartradio.org/no-episodes)
 * [In the No Part 1](https://www.wnycstudios.org/podcasts/radiolab/articles/no-part-1) — Radiolab.
-* [21 OSINT Tools for Cyber Threat Intelligence](https://www.smashingsecurity.com/authentic8) — Authentic8.
 
 ### [Smashing Security: 186: This one&#39;s for all the Karens!](http://www.smashingsecurity.com/186)
 
