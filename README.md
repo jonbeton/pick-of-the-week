@@ -1192,12 +1192,6 @@
 
 ### [Smashing Security: 030: GDPR - The good and the bad](http://www.smashingsecurity.com/30)
 
-* [The EU&#39;s GDPR legislation](http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1497261922341&amp;uri=CELEX:32016R0679) — A gentle read before bedtime...
-* [EU data protection rules affect everyone, say legal experts](http://www.computerweekly.com/news/4500270456/EU-data-protection-rules-affect-everyone-say-legal-experts) — The EU&#39;s new data protection rules will impact every entity that holds or uses European personal data both inside and outside of Europe, according to legal experts.
-* [Preparing for GDPR - 12 steps to take now (PDF)](https://ico.org.uk/media/2014146/gdpr-12-steps-infographic-201705.pdf) — Advice from the UK&#39;s Information Commissioner&#39;s Office.
-* [EU GDPR demystified: a straight-forward guide for US firms (Part I) –](https://tbgsecurity.com/eu-gdpr-demystified-a-straight-forward-guide-for-us-firms-part-1/) — Our own Carole Theriault writes about GDPR on the TBG Security blog.
-* [EU GDPR demystified: a straightforward reference guide for US firms (Part II)](https://tbgsecurity.com/eu-gdpr-demystified-a-straightforward-reference-guide-for-us-firms-part-two/) — More from Carole Theriault on the TBG Security blog.
-
 ### [Smashing Security: 029: Exploits to get your English teeth into](https://www.smashingsecurity.com/29)
 
 * [Divide and conquer: How Microsoft researchers used AI to master Ms. Pac-Man - The AI Blog](https://blogs.microsoft.com/ai/divide-conquer-microsoft-researchers-used-ai-master-ms-pac-man/)
