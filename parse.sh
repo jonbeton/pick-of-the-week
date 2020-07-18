@@ -12,7 +12,7 @@ do
         | jq 'select(.text | test("patreon"; "i") == false)' \
         | jq 'select(.text | test("facebook"; "i") == false)' \
         | jq 'select(.text | test("Smashing Security merchandise"; "i") == false)' \
-        | jq -s '.[-5:]'
+        | jq -s '.[-5:] | .[]'
     `
 
     #echo
@@ -25,5 +25,19 @@ do
     echo
     echo "### [Smashing Security: $TITLE]($EP_LINK)"
     echo
-    echo $LINKS | jq -r '.[] | "* [\(.text)](\(.link)) - \(.description)"'
+    echo $LINKS | jq -c . | while IFS= read -r LINK
+    do
+        TEXT=`echo $LINK | jq -r .text`
+        HREF=`echo $LINK | jq -r .link`
+        DESC=`echo $LINK | jq -r .description | sed 's/[^A-Za-z0-9]*//'`
+
+        if [ -z "$DESC" ]
+        then
+            echo "* [$TEXT]($HREF)"
+        else
+            echo "* [$TEXT]($HREF) — $DESC"
+        fi
+    done
+
+    #echo $LINKS | jq -r '.[] | "* [\(.text)](\(.link)) - \(.description)"'
 done
