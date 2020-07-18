@@ -1229,3 +1229,10 @@
 * [Boxcryptor - Encryption software to secure cloud files](https://www.boxcryptor.com/en/) — Encrypt your files before you shove them in the cloud...
 * [How to use Google Maps offline](https://www.androidcentral.com/how-use-google-maps-offline) — Ian&#39;s tip on how to use your smartphone to navigate, even when you don&#39;t have a data connection.
 * [Trump in translation: president&#39;s mangled language stumps interpreters](https://www.theguardian.com/us-news/2017/jun/06/trump-translation-interpreters) — Carole&#39;s pick of the week from The Guardian.
+
+### [Smashing Security: 023:Covfefe](https://www.https://www.smashingsecurity.com/23)
+
+* [Sgt. Pepper's Lonely Hearts Club Band](http://www.thebeatles.com/album/sgt-peppers-lonely-hearts-club-band) - The Beatles
+* [Spanish art restorer, 82, who turned Jesus into a 'hairy monkey' in clumsy restoration of famous work signs merchandising deal as image gets imprinted on T-shirts](http://www.dailymail.co.uk/news/article-2400354/Spanish-art-restorer-82-turned-Jesus-hairy-monkey-clumsy-restoration-famous-work-signs-merchandising-deal-image-gets-imprinted-T-shirts.html) - Daily Mail
+* [Clash of Clans](http://supercell.com/en/games/clashofclans/)
+* [This is what Candy Crush does to your brain](https://www.theguardian.com/science/blog/2014/apr/01/candy-crush-saga-app-brain) - The Guardian
