@@ -651,10 +651,8 @@
 
 ### [Smashing Security: 105: Facebook, Nietzsche, Tesla, and Nicole](http://www.smashingsecurity.com/105)
 
-* [The Beatles - Glass Onion (2018 Mix)](https://www.youtube.com/watch?v=aBQIAWh3YBs) — YouTube.
 * [The Beatles (White Album) 50th Anniversary Edition](https://www.thebeatles.com/news/out-now-beatles-white-album-50th-anniversary-editions) — The Beatles.
 * [American Animals.](https://www.americananimals.film/)
-* [Krissy Brierre-Davis (@krissys_kitchen)](https://twitter.com/krissys_kitchen) — Twitter.
 * [iPhone hack: Thousands of people just discovered the &#39;life-changing&#39; space bar trick](https://www.independent.co.uk/life-style/gadgets-and-tech/iphone-space-bar-hack-texting-keyboard-cursor-ios-move-twitter-typing-a8641806.html) — The Independent.
 
 ### [Smashing Security: 104: The world&#39;s most evil phishing test, and cyborgs in the workplace](http://www.smashingsecurity.com/104)
