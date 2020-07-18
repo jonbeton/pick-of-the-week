@@ -8,15 +8,12 @@
 
 ### [Smashing Security: 186: This one&#39;s for all the Karens!](http://www.smashingsecurity.com/186)
 
-* [The Life and Times of David Lloyd George (with Ennio Morricone theme tune)](https://www.youtube.com/watch?v=g4j1ZhanYLk) — YouTube.
-* [Dogmatix chasing a Roman legionary, to the tune of Ennio Morricone&#39;s Chi Mai.](https://www.youtube.com/watch?v=Yva5xy94t_k) — YouTube.
 * [A Tribute to Ennio Morricone.](https://public.tableau.com/views/MorriconeWorking/Morricone?:language=en&amp;:display_count=y&amp;publish=yes&amp;:origin=viz_share_link&amp;:showVizHome=no) — Tableau.
 * [An Abridged Micro List](https://www.facebook.com/mal.kegode/videos/10158221921958820/) — Malaika Kegode on Facebook.
 * [Karen (slang)](https://en.wikipedia.org/wiki/Karen_(slang)) — Wikipedia.
 
 ### [Smashing Security: 185: Bieber fever, Roblox, and ransomware](http://www.smashingsecurity.com/185)
 
-* [TikTok Teens Are Obsessed With Pizzagate](https://www.thedailybeast.com/tiktok-teens-are-obsessed-with-pizzagate) — The Daily Beast.
 * [Building the Perfect Squirrel Proof Bird Feeder](https://www.youtube.com/watch?v=hFZFjoX2cGg) — YouTube.
 * [DARK Season 1 Trailer](https://www.youtube.com/watch?v=HBpZHcat8DQ) — YouTube.
 * [DARK - The Official Guide](https://darknetflix.io/en) — Netflix.
