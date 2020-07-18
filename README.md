@@ -24,16 +24,13 @@
 * [Koko Analytics](https://www.kokoanalytics.com/) — A privacy-friendly analytics plugin for WordPress.
 * [Fathom](https://usefathom.com/) — Fast, simple and privacy-focused website analytics.
 * [Upload trailer](https://www.youtube.com/watch?v=0ZfZj2bn_xg) — YouTube.
-* [Backspace and beyond](https://audioboom.com/channels/5011001) — Audioboom.
 * [The Magnus Archives](http://rustyquill.com/the-magnus-archives/) — Horror podcast.
 
 ### [Smashing Security: 183: MAMILs, gameshows, and a surprise from eBay](http://www.smashingsecurity.com/183)
 
 * [Staged](https://www.bbc.co.uk/iplayer/episodes/p08dnl67/staged) — BBC iPlayer.
 * [The Mars Challenge by Alison Wilgus](https://us.macmillan.com/books/9781250794963) — Macmillan.
-* [Mars trip to use astronaut poo as radiation shield](https://www.newscientist.com/article/dn23230-mars-trip-to-use-astronaut-poo-as-radiation-shield/) — New Scientist.
 * [Culture quiz: from Bob Holness 007 to the Daily Mail&#39;s feast of filth](https://www.theguardian.com/culture/2020/may/31/culture-quiz-from-bob-holness-007-to-the-daily-mails-feast-of-filth) — The Guardian.
-* [Quizzes](https://www.theguardian.com/tone/quizzes) — The Guardian.
 
 ### [Smashing Security: 182: Space Force, credit card fraud, and beep-ti-beep](http://www.smashingsecurity.com/182)
 
@@ -41,13 +38,10 @@
 * [Magnet – Window manager for Mac.](https://magnet.crowdcafe.com/)
 * [The Host Unknown Podcast.](https://podcast.hostunknown.tv/)
 * [DEVS](https://www.bbc.co.uk/iplayer/episodes/p087gj19/devs) — BBC iPlayer.
-* [Cyber Security Awareness for Dummies](https://www.smashingsecurity.com/cyberaware) — A free book for listeners from MetaCompliance.
 
 ### [Smashing Security: 181: Anti-cybercrime ads, tricky tracing, and a 5G Bioshield](http://www.smashingsecurity.com/181)
 
-* [5GBioShield.](https://5gbioshield.com/)
 * [Swopper chair](https://www.swopper-stuhl.de/office-chairs.html) — Stuhl.
-* [The Swopper by Aeris](https://www.youtube.com/watch?v=SrgQDyR7C7g) — YouTube.
 * [The Knowledge: How to Rebuild our World from Scratch](http://the-knowledge.org/en-gb/the-book/) — Book by Lewis Dartnell.
 * [Men hired for sexual fantasy break into wrong house](https://www.bbc.co.uk/news/world-australia-52843846) — BBC News.
 
