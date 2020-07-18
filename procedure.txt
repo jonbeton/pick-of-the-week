@@ -1,0 +1,3 @@
+- Check which episodes still need to be validated in validated.txt
+- Update the links of these episodes in README.md
+- Update validated.txt
