@@ -1178,45 +1178,38 @@
 * [Clock face with actual human face uses eyes to tell time](http://mashable.com/2017/08/01/human-face-clock-japan-design-studio/#EAMownFPIiqr) — Mashable.
 * [Picture of Carole&#39;s clock (which Graham hates)](https://twitter.com/SmashinSecurity/status/892902281993211905) — Twitter.
 
-### [Smashing Security: 035: Up the Roomba with mandatory Chinese spyware](http://www.smashingsecurity.com/35)
+### [Smashing Security: 035: Up the Roomba with mandatory Chinese spyware](https://www.smashingsecurity.com/35)
 
-* [Griffin BreakSafe Magnetic USB C Charging Cable](https://griffintechnology.com/us/breaksafe-magnetic-usb-c-power-cable) — To make your upgraded MacBook Pro a little less of a downgrade.
-* [USB-C MagSafe - Will it work!?!?](https://www.youtube.com/watch?v=BmfgIPoKX9w) — iJustine&#39;s video on YouTube.
-* [Chipotle Blames Norovirus Outbreak on a Sick Employee](https://www.eater.com/2017/7/26/16029236/chipotle-norovirus-apology-food-safety-protocols) — Pick of the week?
-* [Jim&#39;ll Paint It](http://jimllpaintit.tumblr.com/) — See what Microsoft Paint can do in the hands of a genius.
-* [MS Paint is here to stay](https://blogs.windows.com/windowsexperience/2017/07/24/ms-paint-stay/) — Microsoft.
+* [Griffin BreakSafe Magnetic USB C Charging Cable](https://griffintechnology.com/us/breaksafe-magnetic-usb-c-power-cable)  — To make your upgraded MacBook Pro a little less of a downgrade.
+* [USB-C MagSafe - Will it work!?!?](https://www.youtube.com/watch?v=BmfgIPoKX9w)  — iJustine's video on YouTube.
+* [Chipotle Blames Norovirus Outbreak on a Sick Employee](https://www.eater.com/2017/7/26/16029236/chipotle-norovirus-apology-food-safety-protocols)  — Pick of the week?
+* [Jim'll Paint It](http://jimllpaintit.tumblr.com/)  — See what Microsoft Paint can do in the hands of a genius.
+* [MS Paint is here to stay](https://blogs.windows.com/windowsexperience/2017/07/24/ms-paint-stay/)  — Microsoft.
 
-### [Smashing Security: 034: The pen is mightier than the password](http://www.smashingsecurity.com/34)
 
-* [Fleabag](http://www.bbc.co.uk/programmes/p040tlqx) — Sadly there is no way at all for anyone outside the UK to watch shows on BBC iPlayer. Definitely not. Nope. No way at all. Impossible.
-* [IRL Podcast: Online Life is Real Life](https://irlpodcast.org/) — Mozilla&#39;s new podcast
-* [Google Glass is officially back with a clearer vision](https://www.engadget.com/2017/07/18/google-glass-is-officially-back-with-a-clearer-vision/) — Engadget
-* [Black Mirror: The Entire History of You](https://en.wikipedia.org/wiki/The_Entire_History_of_You) — We didn&#39;t mention it on the podcast, but this episode of &#34;Black Mirror&#34; includes the new Doctor Who - Jodie Whittaker.
-* [This Startup Wants to Replace Your Office With 3D Holograms - Bloomberg](https://www.bloomberg.com/news/articles/2017-07-18/this-startup-wants-to-replace-your-office-with-3d-holograms) — Article about Meta, which is testing augmented reality technology on its employees
+### [Smashing Security: 034: The pen is mightier than the password](https://www.smashingsecurity.com/34)
 
-### [Smashing Security: 033: 1Password, net neutrality, and spatchcock chicken](http://www.smashingsecurity.com/33)
+* [BBC Three - Fleabag, Series 1](http://www.bbc.co.uk/programmes/p040tlqx)
+* [IRL Podcast: Online Life is Real Life](https://irlpodcast.org/)
+* [Google Glass is officially back with a clearer vision | Engadget](https://www.engadget.com/2017/07/18/google-glass-is-officially-back-with-a-clearer-vision/)
 
-* [Southern Rail on Twitter](https://twitter.com/SouthernRailUK/status/884769193366867968) — Eddie takes over Southern Rail&#39;s Twitter account.
-* [Work experience boy runs Southern Rail&#39;s Twitter account](http://news.sky.com/story/work-experience-boy-runs-southern-rails-twitter-account-10945141) — Sky News.
-* [The Red Pill movie](https://en.wikipedia.org/wiki/The_Red_Pill) — Wikipedia.
-* [Rapidfire Chimney Starter](https://www.weber.com/GB/en/accessories/charcoal-briquettes/rapidfire-chimney-starter) — Weber.
-* [Griddled spatchcock poussins with shallot vinaigrette recipe](http://www.telegraph.co.uk/foodanddrink/recipes/10169604/Griddled-spatchcock-poussins-with-shallot-vinaigrette-recipe.html) — Apparently Carole makes a mean one of these, although we&#39;ve only got her word for it.
+### [Smashing Security: 033: 1Password, net neutrality, and spatchcock chicken](https://www.smashingsecurity.com/33)
 
-### [Smashing Security: 032: The iPhone 8, a data breach at the AA, and a mystery no show](http://www.smashingsecurity.com/32)
+* [Southern on Twitter: &quot;Hi, Eddie here! Here on Work Experience and ready to answer your questions! 😊&quot;](https://twitter.com/SouthernRailUK/status/884769193366867968)
+* [The Red Pill - Wikipedia](https://en.wikipedia.org/wiki/The_Red_Pill)
+* [Rapidfire Chimney Starter | Official Weber® Website](https://www.weber.com/GB/en/accessories/charcoal-briquettes/rapidfire-chimney-starter)
+* [Griddled spatchcock poussins with shallot vinaigrette recipe - Telegraph](http://www.telegraph.co.uk/foodanddrink/recipes/10169604/Griddled-spatchcock-poussins-with-shallot-vinaigrette-recipe.html)
 
-* [Apple Readies iPhone Overhaul for Smartphone’s 10th Anniversary - Bloomberg](https://www.bloomberg.com/news/articles/2017-04-18/apple-readies-iphone-overhaul-for-smartphone-s-10th-anniversary)
-* [The World&#39;s Blackest Material - An Inside Look At Vantablack](https://www.youtube.com/watch?v=BkGHwrq2Eho) — YouTube video.
-* [About Touch ID advanced security technology - Apple Support](https://support.apple.com/en-gb/HT204587)
+### [Smashing Security: 032: The iPhone 8, a data breach at the AA, and a mystery no show](https://www.smashingsecurity.com/32)
+
 * [He thought a book would stop a bullet and make him a YouTube star. Now he’s dead. - The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/06/29/he-thought-a-book-would-stop-a-bullet-and-make-him-a-youtube-star-now-hes-dead/?utm_term=.0aa6af05f617)
-* [Firik Sleep Headphones](https://www.amazon.com/Upgrade-Summer-Sales-Lycra-Headphones/dp/B011L8UQDA/) — For those of you who want to look like John McEnroe when you&#39;re snoozing in bed.
+* [Firik Sleep Headphones | Amazon](https://www.amazon.com/Upgrade-Summer-Sales-Lycra-Headphones/dp/B011L8UQDA/)
 
-### [Smashing Security: 031: Petya (don&#39;t know the name of this ransomware)](http://www.smashingsecurity.com/31)
+### [Smashing Security: 031: Petya (don&#39;t know the name of this ransomware)](https://www.smashingsecurity.com/31)
 
-* [Malicious Life podcast](https://malicious.life/) — Interviewing Graham Cluley, Vesselin Bontchev, and others about the early days of malware.
-* [50th anniversary of the ATM opens debate about mobile payments](https://www.theregister.co.uk/2017/06/27/atm_at_50/)
-* [Why Was The World&#39;s First Cash Machine In Enfield?](http://londonist.com/2016/01/why-was-london-s-first-cash-machine-in-enfield-1)
-* [&#34;On The Buses&#34; - YouTube](https://www.youtube.com/watch?v=IUTPud3w-bY) — Starring Reg Varney, famous for being one of the first people in the world to use an ATM.
-* [The Bright Sessions podcast](http://www.thebrightsessions.com/)
+* [Cybersecurity History Podcast | Malicious Life](https://malicious.life/)
+* [50th anniversary of the ATM opens debate about mobile payments • The Register](https://www.theregister.co.uk/2017/06/27/atm_at_50/)
+* [The Bright Sessions](http://www.thebrightsessions.com/)
 
 ### [Smashing Security: 030: GDPR - The good and the bad](http://www.smashingsecurity.com/30)
 
@@ -1226,13 +1219,11 @@
 * [EU GDPR demystified: a straight-forward guide for US firms (Part I) –](https://tbgsecurity.com/eu-gdpr-demystified-a-straight-forward-guide-for-us-firms-part-1/) — Our own Carole Theriault writes about GDPR on the TBG Security blog.
 * [EU GDPR demystified: a straightforward reference guide for US firms (Part II)](https://tbgsecurity.com/eu-gdpr-demystified-a-straightforward-reference-guide-for-us-firms-part-two/) — More from Carole Theriault on the TBG Security blog.
 
-### [Smashing Security: 029: Exploits to get your English teeth into](http://www.smashingsecurity.com/29)
+### [Smashing Security: 029: Exploits to get your English teeth into](https://www.smashingsecurity.com/29)
 
-* [Video of Microsoft&#39;s Ms Pac Man-playing AI.](https://www.youtube.com/watch?v=zQyWMHFjewU)
-* [Max Hawkins&#39;s website](https://maxhawkins.me/work/randomized_living.html) — 34;For the past two years I’ve been letting randomized computer programs decide what I do.&#34;
-* [Eager To Burst His Own Bubble, A Techie Made Apps To Randomize His Life](http://www.npr.org/sections/alltechconsidered/2017/06/08/531796329/eager-to-burst-his-own-bubble-a-techie-made-apps-to-randomize-his-life?sc=17&amp;f=1001) — NPR take a look at the odd lifestyle of Max Hawkins.
-* [The Dice Man](https://en.wikipedia.org/wiki/The_Dice_Man) — 1971 novel by Luke Rhinehart.
-* [Logitech finally finds a good use for wireless charging: A mouse pad](https://arstechnica.com/gadgets/2017/06/logitech-powerplay-mouse-pad-wireless-charging/) — Would you buy one of these? Seriously?
+* [Divide and conquer: How Microsoft researchers used AI to master Ms. Pac-Man - The AI Blog](https://blogs.microsoft.com/ai/divide-conquer-microsoft-researchers-used-ai-master-ms-pac-man/)
+* [Max Hawkins - Randomized Living](https://maxhawkins.me/work/randomized_living.html)
+* [Logitech finally finds a good use for wireless charging: A mouse pad | Ars Technica](https://arstechnica.com/gadgets/2017/06/logitech-powerplay-mouse-pad-wireless-charging/)
 
 ### [Smashing Security: 024: Reality Winner, Gordon Ramsay and a leaky bucket](http://www.smashingsecurity.com/24)
 
