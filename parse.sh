@@ -1,6 +1,6 @@
 #!bash
 
-for FILE in `ls episodes | sort -n`
+for FILE in `ls episodes | sort -nr`
 do
     NUM=`echo $FILE | grep -oP '\d+'`
     TITLE=`cat episodes/$FILE | pup '.hero-info > h1 > text{}'`
