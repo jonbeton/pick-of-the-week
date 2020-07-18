@@ -1200,8 +1200,6 @@
 
 ### [Smashing Security: 024: Reality Winner, Gordon Ramsay and a leaky bucket](http://www.smashingsecurity.com/24)
 
-* [Smashing Security: 014: Protecting webmail - a Smashing Security splinter](http://www.smashingsecurity.com/014-protecting-webmail-a-smashing-security-splinter) — In this podcast we run through our tips on how to better secure your web-based email accounts. Chances are that you&#39;re not doing all of these!
-* [Smashing Security: Passwords - a Smashing Security splinter](http://www.smashingsecurity.com/passwords) — Password best practices explained in our podcast.
 * [Boxcryptor - Encryption software to secure cloud files](https://www.boxcryptor.com/en/) — Encrypt your files before you shove them in the cloud...
 * [How to use Google Maps offline](https://www.androidcentral.com/how-use-google-maps-offline) — Ian&#39;s tip on how to use your smartphone to navigate, even when you don&#39;t have a data connection.
 * [Trump in translation: president&#39;s mangled language stumps interpreters](https://www.theguardian.com/us-news/2017/jun/06/trump-translation-interpreters) — Carole&#39;s pick of the week from The Guardian.
