@@ -159,8 +159,6 @@
 
 ### [Smashing Security: 166: What the Dickens! Ad ban thank you scam](http://www.smashingsecurity.com/166)
 
-* [Smashing Security 034: The pen is mightier than the password](https://www.smashingsecurity.com/34) — With special guest David McClelland.
-* [Pay Up, Or We’ll Make Google Ban Your Ads](https://krebsonsecurity.com/2020/02/pay-up-or-well-make-google-ban-your-ads/) — Krebs on Security.
 * [The Personal History of David Copperfield (Trailer)](https://www.youtube.com/watch?v=oHG7FnBDY0Q) — YouTube.
 * [The Personal History of David Copperfield](https://en.wikipedia.org/wiki/The_Personal_History_of_David_Copperfield#Critical_response) — Wikipedia.
 * [Hunted](https://www.endeavoraudio.com/podcasts/thriller-podcasts/hunted) — Endeavor Audio.
