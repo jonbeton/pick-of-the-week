@@ -1094,19 +1094,16 @@
 
 ### [Smashing Security: 046: Good beard bad beard](http://www.smashingsecurity.com/46)
 
-* [Wi-Fi sex toy with built-in camera fails penetration test - The Register Forums](https://forums.theregister.co.uk/forum/1/2017/04/04/intimate_adult_toy_fails_penetration_test/)
+* [Wi-Fi sex toy with built-in camera fails penetration test](https://forums.theregister.co.uk/forum/1/2017/04/04/intimate_adult_toy_fails_penetration_test/) - The Register Forums.
 * [Topo by Ergodriven](http://ergodriven.com/topo/)
-* [Dirk Gently&#39;s Holistic Detective Agency - IMDb](http://www.imdb.com/title/tt4047038/?ref_=nv_sr_1)
-* [Dead roach in Utah man’s milkshake becomes Twitter hero - KSL.com](https://www.ksl.com/?sid=45957914&amp;nid=148&amp;title=dead-roach-in-utah-mans-milkshake-becomes-twitter-hero)
-* [Trevor The Roach: A Tribute Movie](https://twitter.com/sehnaoui/status/912151355799859201?ref_src=twsrc%5Etfw&amp;ref_url=https%3A%2F%2Fwww.ksl.com%2F%3Fsid%3D45957914%26nid%3D148%26title%3Ddead-roach-in-utah-mans-milkshake-becomes-twitter-hero)
+* [Dirk Gently&#39;s Holistic Detective Agency](http://www.imdb.com/title/tt4047038/?ref_=nv_sr_1) - IMDb.
+* [Dead roach in Utah man’s milkshake becomes Twitter hero](https://www.ksl.com/?sid=45957914&amp;nid=148&amp;title=dead-roach-in-utah-mans-milkshake-becomes-twitter-hero) - KSL.com.
+* [Trevor The Roach: A Tribute Movie](https://twitter.com/sehnaoui/status/912151355799859201) - Twitter.
 
 ### [Smashing Security: 045: Deloitte fail, CCleaner, and dotards on Twitter](http://www.smashingsecurity.com/45)
 * [Wildergorn colour-in posters](http://www.wildergorn.com/)
-* [Star Trek: Discovery - CBS](http://www.cbs.com/shows/star-trek-discovery/)
-* [Rick and Morty - Wikipedia](https://en.wikipedia.org/wiki/Rick_and_Morty)
-
-### [Smashing Security: 044: Bonus behind the scenes - shower time](http://www.smashingsecurity.com/44)
-
+* [Star Trek: Discovery](http://www.cbs.com/shows/star-trek-discovery/) - CBS.
+* [Rick and Morty](https://en.wikipedia.org/wiki/Rick_and_Morty) - Wikipedia.
 
 ### [Smashing Security: 043: Backups - a necessary evil?](http://www.smashingsecurity.com/43)
 
@@ -1119,16 +1116,16 @@
 ### [Smashing Security: 042: Equifax, BlueBorne, and the iPhone X](http://www.smashingsecurity.com/42)
 
 * [Chessable](https://www.chessable.com/)
-* [The science that makes chess learning easier - Chessable.com](https://www.chessable.com/science/)
-* [You can actually be allergic to exercise - Pop Science](http://www.popsci.com/you-can-actually-be-allergic-to-exercise)
-* [Dr Mandell&#39;s Push and Pull Technique (20-Second Neck Pain Relief) - YouTube](https://www.youtube.com/watch?v=xMja3iZNOZQ)
-* [It&#39;s all about the Squinch! - YouTube](https://www.youtube.com/watch?v=ff7nltdBCHs)
+* [The science that makes chess learning easier](https://www.chessable.com/science/) - Chessable.
+* [You can actually be allergic to exercise](http://www.popsci.com/you-can-actually-be-allergic-to-exercise) - Pop Science.
+* [Dr Mandell&#39;s Push and Pull Technique (20-Second Neck Pain Relief)](https://www.youtube.com/watch?v=xMja3iZNOZQ) - YouTube.
+* [It&#39;s all about the Squinch!](https://www.youtube.com/watch?v=ff7nltdBCHs) - YouTube.
 
 ### [Smashing Security: 041: Hacking Instagram, facial failures, and spying bosses](http://www.smashingsecurity.com/41)
 
-* [The Big Sick (2017) - IMDb](http://www.imdb.com/title/tt5462602/)
-* [Group Therapy Radio | Streaming live every Friday - YouTube](https://www.youtube.com/playlist?list=PL6RLee9oArCArCAjnOtZ17dlVZQxaHG8G)
-* [Above &amp; Beyond - SoundCloud](https://soundcloud.com/aboveandbeyond)
+* [The Big Sick (2017)](http://www.imdb.com/title/tt5462602/) - IMDb.
+* [Group Therapy Radio](https://www.youtube.com/playlist?list=PL6RLee9oArCArCAjnOtZ17dlVZQxaHG8G) - YouTube.
+* [Above &amp; Beyond](https://soundcloud.com/aboveandbeyond) - SoundCloud.
 * [Above &amp; Beyond present Group Therapy 250](http://www.abgt250.com/)
 * [How To Fix a Toilet And Other Things We Can&#39;t Do Without Search](http://how-to-fix-a-toilet.com/)
 
@@ -1149,10 +1146,10 @@
 
 ### [Smashing Security: 037: Boobs, dragons and data breaches](http://www.smashingsecurity.com/37)
 
-* [Adult Life Skills (2016) - IMDb](http://www.imdb.com/title/tt4211044/)
-* [Intelligence (Canadian TV series) - Wikipedia](https://en.wikipedia.org/wiki/Intelligence_(Canadian_TV_series))
+* [Adult Life Skills (2016)](http://www.imdb.com/title/tt4211044/) - IMDb.
+* [Intelligence (Canadian TV series)](https://en.wikipedia.org/wiki/Intelligence_(Canadian_TV_series)) - Wikipedia.
 * [Secrets, Crimes &amp; Audiotape](http://wondery.com/wondery/shows/secretscrimes/)
-* [BBC Radio 4 - Seriously...](http://www.bbc.co.uk/programmes/p05bv964)
+* [BBC Radio 4 - Seriously...](http://www.bbc.co.uk/programmes/p05bv964) - BBC.
 * [Smashing Security online store](http://www.smashingsecurity.com/store)
 
 ### [Smashing Security: 036: Flash? Clunk flush... and hacking security researchers](http://www.smashingsecurity.com/36)
@@ -1180,20 +1177,20 @@
 
 ### [Smashing Security: 033: 1Password, net neutrality, and spatchcock chicken](https://www.smashingsecurity.com/33)
 
-* [Southern on Twitter: &quot;Hi, Eddie here! Here on Work Experience and ready to answer your questions! 😊&quot;](https://twitter.com/SouthernRailUK/status/884769193366867968)
-* [The Red Pill - Wikipedia](https://en.wikipedia.org/wiki/The_Red_Pill)
+* [Southern on Twitter: &quot;Hi, Eddie here! Here on Work Experience and ready to answer your questions! 😊&quot;](https://twitter.com/SouthernRailUK/status/884769193366867968) - Twitter.
+* [The Red Pill](https://en.wikipedia.org/wiki/The_Red_Pill) - Wikipedia.
 * [Rapidfire Chimney Starter | Official Weber® Website](https://www.weber.com/GB/en/accessories/charcoal-briquettes/rapidfire-chimney-starter)
 * [Griddled spatchcock poussins with shallot vinaigrette recipe - Telegraph](http://www.telegraph.co.uk/foodanddrink/recipes/10169604/Griddled-spatchcock-poussins-with-shallot-vinaigrette-recipe.html)
 
 ### [Smashing Security: 032: The iPhone 8, a data breach at the AA, and a mystery no show](https://www.smashingsecurity.com/32)
 
-* [He thought a book would stop a bullet and make him a YouTube star. Now he’s dead. - The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/06/29/he-thought-a-book-would-stop-a-bullet-and-make-him-a-youtube-star-now-hes-dead/?utm_term=.0aa6af05f617)
+* [He thought a book would stop a bullet and make him a YouTube star. Now he’s dead.](https://www.washingtonpost.com/news/morning-mix/wp/2017/06/29/he-thought-a-book-would-stop-a-bullet-and-make-him-a-youtube-star-now-hes-dead/?utm_term=.0aa6af05f617) - The Washington Post.
 * [Firik Sleep Headphones | Amazon](https://www.amazon.com/Upgrade-Summer-Sales-Lycra-Headphones/dp/B011L8UQDA/)
 
 ### [Smashing Security: 031: Petya (don&#39;t know the name of this ransomware)](https://www.smashingsecurity.com/31)
 
 * [Cybersecurity History Podcast | Malicious Life](https://malicious.life/)
-* [50th anniversary of the ATM opens debate about mobile payments • The Register](https://www.theregister.co.uk/2017/06/27/atm_at_50/)
+* [50th anniversary of the ATM opens debate about mobile payments](https://www.theregister.co.uk/2017/06/27/atm_at_50/) - The Register.
 * [The Bright Sessions](http://www.thebrightsessions.com/)
 
 ### [Smashing Security: 030: GDPR - The good and the bad](http://www.smashingsecurity.com/30)
