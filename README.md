@@ -1131,8 +1131,6 @@
 
 ### [Smashing Security: 040: The show that cost Troy Hunt 14 dollars](http://www.smashingsecurity.com/40)
 * [The Phoenix Comic](https://www.thephoenixcomic.co.uk/)
-* [Little Ripper Lifesaver Drones Spot Sharks Electronically](https://www.youtube.com/watch?v=HItdecoGK3A) — YouTube.
-* [ChirpChange](https://chirpchange.io/)
 
 ### [Smashing Security: 039: Woah - are we talking to a cyborg?](http://www.smashingsecurity.com/39)
 * [Overcooked](https://www.team17.com/games/overcooked/) — Team 17.
@@ -1154,7 +1152,6 @@
 
 ### [Smashing Security: 036: Flash? Clunk flush... and hacking security researchers](http://www.smashingsecurity.com/36)
 
-* [Long Distance](https://gimletmedia.com/episode/long-distance/) — Reply All podcast by Gimlet Media.
 * [Tickled movie](https://en.wikipedia.org/wiki/Tickled) — Wikipedia.
 * [Tickled documentary to air on HBO with bonus follow-up special](http://www.avclub.com/article/tickled-documentary-air-hbo-bonus-follow-special-249832) — The A.V. Club.
 * [Clock face with actual human face uses eyes to tell time](http://mashable.com/2017/08/01/human-face-clock-japan-design-studio/#EAMownFPIiqr) — Mashable.
