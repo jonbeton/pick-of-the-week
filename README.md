@@ -1146,8 +1146,8 @@
 
 ### [Smashing Security: 040: The show that cost Troy Hunt 14 dollars](http://www.smashingsecurity.com/40)
 * [The Phoenix Comic](https://www.thephoenixcomic.co.uk/)
-* [Little Ripper Lifesaver Drones Spot Sharks Electronically](https://www.youtube.com/watch?v=HItdecoGK3A) — YouTube.
-* [ChirpChange](https://chirpchange.io/)
+* [Little Ripper Lifesaver Drones Spot Sharks Electronically](https://www.youtube.com/watch?v=Sylx-GP3AqA) — YouTube.
+* [ChirpChange](https://web.archive.org/web/20181202012522/https://chirpchange.io/)
 
 ### [Smashing Security: 039: Woah - are we talking to a cyborg?](http://www.smashingsecurity.com/39)
 * [Overcooked](https://www.team17.com/games/overcooked/) — Team 17.
