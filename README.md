@@ -1,4 +1,3 @@
-
 ### [Smashing Security: 187: Huawei ban, MGM hack, and a contact-tracing cock-up](http://www.smashingsecurity.com/187)
 
 * [How do you pronounce &#34;Gigawatt&#34;?](https://twitter.com/waldojaquith/status/1282130509192142849) — Waldo Jaquith on Twitter.
@@ -1119,9 +1118,6 @@
 * [Trevor The Roach: A Tribute Movie](https://twitter.com/sehnaoui/status/912151355799859201?ref_src=twsrc%5Etfw&amp;ref_url=https%3A%2F%2Fwww.ksl.com%2F%3Fsid%3D45957914%26nid%3D148%26title%3Ddead-roach-in-utah-mans-milkshake-becomes-twitter-hero)
 
 ### [Smashing Security: 045: Deloitte fail, CCleaner, and dotards on Twitter](http://www.smashingsecurity.com/45)
-
-* [Twitter PublicPolicy on Twitter](https://twitter.com/Policy/status/912438046515220480)
-* [The Twitter Rules - Twitter Help Center](https://support.twitter.com/articles/18311)
 * [Wildergorn colour-in posters](http://www.wildergorn.com/)
 * [Star Trek: Discovery - CBS](http://www.cbs.com/shows/star-trek-discovery/)
 * [Rick and Morty - Wikipedia](https://en.wikipedia.org/wiki/Rick_and_Morty)
@@ -1154,25 +1150,16 @@
 * [How To Fix a Toilet And Other Things We Can&#39;t Do Without Search](http://how-to-fix-a-toilet.com/)
 
 ### [Smashing Security: 040: The show that cost Troy Hunt 14 dollars](http://www.smashingsecurity.com/40)
-
-* [Charity Listing - BBB Wise Giving Alliance](http://give.org/charity-reviews/national) — Give.org.
-* [Wise giving in the wake of Hurricane Harvey](https://www.consumer.ftc.gov/blog/2017/08/wise-giving-wake-hurricane-harvey) — FTC.
 * [The Phoenix Comic](https://www.thephoenixcomic.co.uk/)
 * [Little Ripper Lifesaver Drones Spot Sharks Electronically](https://www.youtube.com/watch?v=HItdecoGK3A) — YouTube.
 * [ChirpChange](https://chirpchange.io/)
 
 ### [Smashing Security: 039: Woah - are we talking to a cyborg?](http://www.smashingsecurity.com/39)
-
-* [UBTech Alpha 2 turns Chucky](https://www.youtube.com/watch?v=9A4ZQgzfl0Y) — YouTube
-* [Researchers warn against &#39;hackable&#39; robots](http://www.itpro.co.uk/security/29275/researchers-warn-against-hackable-robots) — IT Pro.
 * [Overcooked](https://www.team17.com/games/overcooked/) — Team 17.
 * [&#34;Could you be paying for things using just your hand?](https://twitter.com/BBCClick/status/894525268509036544) — BBC Click on Twitter.
 * [250,000 Dominoes - The Incredible Science Machine](https://www.youtube.com/watch?v=Q0jeohWnmAQ) — YouTube.
 
 ### [Smashing Security: 038: Gents! Stop airdropping your pics!](http://www.smashingsecurity.com/38)
-
-* [What Is AirDrop? How Does It Work?](https://www.lifewire.com/what-is-airdrop-how-does-it-work-1994512) — Lifewire.
-* [Exposing yourself is illegal - so why should the law tolerate cyber-flashing on online dating apps?](http://www.independent.co.uk/life-style/love-sex/exposing-yourself-is-illegal-so-why-do-online-dating-app-users-think-cyber-flashing-is-ok-a6852761.html) — The Independent.
 * [Saint Louis Rapid &amp; Blitz](http://grandchesstour.org/2017-grand-chess-tour/stlrb) — Grand Chess Tour.
 * [Amazon&#39;s LoveFilm postal rentals is shutting down](http://www.radiotimes.com/news/2017-08-15/lovefilm-postal-dvd-rentals-service-is-shutting-down-confirms-amazon) — Radio Times.
 * [&#34;Waking up with Sam Harris&#34;](https://www.samharris.org/podcast)
