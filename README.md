@@ -546,15 +546,12 @@
 
 ### [Smashing Security: 117: SWATs on a plane](http://www.smashingsecurity.com/117)
 
-* [Half Of U.S. Employees Are Actively Searching For A New Job](https://www.forbes.com/sites/shephyken/2018/07/01/half-of-u-s-employees-are-actively-searching-for-a-new-job/#57e1e05579c6) — Forbes.
-* [Fake Jobs: Campaigns Delivering More_eggs Backdoor via Fake Job Offers](https://www.proofpoint.com/us/threat-insight/post/fake-jobs-campaigns-delivering-moreeggs-backdoor-fake-job-offers) — Proofpoint.
 * [Perfect night in](http://perfectnightin.tv/) — A podcast by Neil Perryman.
 * [Tetris® 99 for Nintendo Switch](https://www.nintendo.com/games/detail/tetris-99-switch) — Nintendo.
 * [Every British swear word has been officially ranked in order of offensiveness](https://www.indy100.com/article/british-swear-words-ranked-ofcom-7340446) — The Independent.
 
 ### [Smashing Security: 116: Stalking debtors, Facebook farce, and a cyber insurance snag](http://www.smashingsecurity.com/116)
 
-* [UK and US blame Russia for &#39;malicious&#39; NotPetya cyber-attack](https://www.bbc.co.uk/news/uk-politics-43062113) — BBC News.
 * [thispersondoesnotexist.com.](https://thispersondoesnotexist.com/)
 * [This website uses AI to generate faces of people who don&#39;t exist](https://mashable.com/article/website-ai-faces-gan-technology/?europe=true#DN51qmwXpPq3) — Mashable.
 * [ESPN+](https://plus.espn.com/)
@@ -602,7 +599,6 @@
 
 ### [Smashing Security: 110: What? You can get paid to leave Facebook?](http://www.smashingsecurity.com/110)
 
-* [Equifax Was Warned](https://motherboard.vice.com/en_us/article/ne3bv7/equifax-breach-social-security-numbers-researcher-warning) — Motherboard.
 * [Remove Background from Image - remove.bg.](https://www.remove.bg/)
 * [&#39;Tidying Up With Marie Kondo&#39; Is a Quiet Delight](https://www.theatlantic.com/entertainment/archive/2019/01/tidying-up-with-marie-kondo-netflix-show-kon-mari-review/579400/) — The Atlantic.
 * [Tidying Up with Marie Kondo | Official Trailer](https://www.youtube.com/watch?v=WvyeapVBLWY) — YouTube.
