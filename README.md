@@ -1070,8 +1070,9 @@
 
 ### [Smashing Security: 049: Hacking funeral homes, crypto mining websites, and careful with that hairspray](http://www.smashingsecurity.com/49)
 
-* [Questions and answers on proposed ban on laptops in luggage - The Washington Post](https://www.washingtonpost.com/politics/federal_government/questions-and-answers-on-proposed-ban-on-laptops-in-luggage/2017/10/21/5126d366-b654-11e7-9b93-b97043e57a22_story.html?utm_term=.dc3ad80b921d)
-* [Inspire Candle - Twelve South](https://www.twelvesouth.com/product/inspire-candle)
+* [(Broken Link) Questions and answers on proposed ban on laptops in luggage - The Washington Post](https://www.washingtonpost.com/politics/federal_government/questions-and-answers-on-proposed-ban-on-laptops-in-luggage/2017/10/21/5126d366-b654-11e7-9b93-b97043e57a22_story.html?utm_term=.dc3ad80b921d)
+* [(Original Link Broken) Inspire Candle - Twelve South](https://www.twelvesouth.com/product/inspire-candle)
+    * [Amazon link](https://www.amazon.co.uk/stores/page/848010B9-746E-4A01-8448-0DC7FAB2F62C)
 * [BBC Two - The Detectives: Murder on the Streets](http://www.bbc.co.uk/programmes/b0961x79)
 * [This Chrome extension blocks audio and video autoplay on any website](https://thenextweb.com/apps/2017/02/20/chrome-autoplay-facebook-audio-video/)
 * [Autoplay blocking is coming to Chrome](https://sites.google.com/a/chromium.org/dev/audio-video/autoplay)
