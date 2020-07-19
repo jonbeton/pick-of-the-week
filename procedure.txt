@@ -1,3 +1,6 @@
+Each episode should contain links to the pick-of-the-week.
 - Check which episodes still need to be validated in validated.txt
-- Update the links of these episodes in README.md
+- Update the links of these episodes in README.md:
+  - Links not directly related to the pick-of-the-week must be removed
+  - Missing links should be added
 - Update validated.txt

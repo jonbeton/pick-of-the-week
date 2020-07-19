@@ -24,16 +24,13 @@
 * [Koko Analytics](https://www.kokoanalytics.com/) — A privacy-friendly analytics plugin for WordPress.
 * [Fathom](https://usefathom.com/) — Fast, simple and privacy-focused website analytics.
 * [Upload trailer](https://www.youtube.com/watch?v=0ZfZj2bn_xg) — YouTube.
-* [Backspace and beyond](https://audioboom.com/channels/5011001) — Audioboom.
 * [The Magnus Archives](http://rustyquill.com/the-magnus-archives/) — Horror podcast.
 
 ### [Smashing Security: 183: MAMILs, gameshows, and a surprise from eBay](http://www.smashingsecurity.com/183)
 
 * [Staged](https://www.bbc.co.uk/iplayer/episodes/p08dnl67/staged) — BBC iPlayer.
 * [The Mars Challenge by Alison Wilgus](https://us.macmillan.com/books/9781250794963) — Macmillan.
-* [Mars trip to use astronaut poo as radiation shield](https://www.newscientist.com/article/dn23230-mars-trip-to-use-astronaut-poo-as-radiation-shield/) — New Scientist.
 * [Culture quiz: from Bob Holness 007 to the Daily Mail&#39;s feast of filth](https://www.theguardian.com/culture/2020/may/31/culture-quiz-from-bob-holness-007-to-the-daily-mails-feast-of-filth) — The Guardian.
-* [Quizzes](https://www.theguardian.com/tone/quizzes) — The Guardian.
 
 ### [Smashing Security: 182: Space Force, credit card fraud, and beep-ti-beep](http://www.smashingsecurity.com/182)
 
@@ -41,13 +38,10 @@
 * [Magnet – Window manager for Mac.](https://magnet.crowdcafe.com/)
 * [The Host Unknown Podcast.](https://podcast.hostunknown.tv/)
 * [DEVS](https://www.bbc.co.uk/iplayer/episodes/p087gj19/devs) — BBC iPlayer.
-* [Cyber Security Awareness for Dummies](https://www.smashingsecurity.com/cyberaware) — A free book for listeners from MetaCompliance.
 
 ### [Smashing Security: 181: Anti-cybercrime ads, tricky tracing, and a 5G Bioshield](http://www.smashingsecurity.com/181)
 
-* [5GBioShield.](https://5gbioshield.com/)
 * [Swopper chair](https://www.swopper-stuhl.de/office-chairs.html) — Stuhl.
-* [The Swopper by Aeris](https://www.youtube.com/watch?v=SrgQDyR7C7g) — YouTube.
 * [The Knowledge: How to Rebuild our World from Scratch](http://the-knowledge.org/en-gb/the-book/) — Book by Lewis Dartnell.
 * [Men hired for sexual fantasy break into wrong house](https://www.bbc.co.uk/news/world-australia-52843846) — BBC News.
 
@@ -165,8 +159,6 @@
 
 ### [Smashing Security: 166: What the Dickens! Ad ban thank you scam](http://www.smashingsecurity.com/166)
 
-* [Smashing Security 034: The pen is mightier than the password](https://www.smashingsecurity.com/34) — With special guest David McClelland.
-* [Pay Up, Or We’ll Make Google Ban Your Ads](https://krebsonsecurity.com/2020/02/pay-up-or-well-make-google-ban-your-ads/) — Krebs on Security.
 * [The Personal History of David Copperfield (Trailer)](https://www.youtube.com/watch?v=oHG7FnBDY0Q) — YouTube.
 * [The Personal History of David Copperfield](https://en.wikipedia.org/wiki/The_Personal_History_of_David_Copperfield#Critical_response) — Wikipedia.
 * [Hunted](https://www.endeavoraudio.com/podcasts/thriller-podcasts/hunted) — Endeavor Audio.
@@ -552,15 +544,12 @@
 
 ### [Smashing Security: 117: SWATs on a plane](http://www.smashingsecurity.com/117)
 
-* [Half Of U.S. Employees Are Actively Searching For A New Job](https://www.forbes.com/sites/shephyken/2018/07/01/half-of-u-s-employees-are-actively-searching-for-a-new-job/#57e1e05579c6) — Forbes.
-* [Fake Jobs: Campaigns Delivering More_eggs Backdoor via Fake Job Offers](https://www.proofpoint.com/us/threat-insight/post/fake-jobs-campaigns-delivering-moreeggs-backdoor-fake-job-offers) — Proofpoint.
 * [Perfect night in](http://perfectnightin.tv/) — A podcast by Neil Perryman.
 * [Tetris® 99 for Nintendo Switch](https://www.nintendo.com/games/detail/tetris-99-switch) — Nintendo.
 * [Every British swear word has been officially ranked in order of offensiveness](https://www.indy100.com/article/british-swear-words-ranked-ofcom-7340446) — The Independent.
 
 ### [Smashing Security: 116: Stalking debtors, Facebook farce, and a cyber insurance snag](http://www.smashingsecurity.com/116)
 
-* [UK and US blame Russia for &#39;malicious&#39; NotPetya cyber-attack](https://www.bbc.co.uk/news/uk-politics-43062113) — BBC News.
 * [thispersondoesnotexist.com.](https://thispersondoesnotexist.com/)
 * [This website uses AI to generate faces of people who don&#39;t exist](https://mashable.com/article/website-ai-faces-gan-technology/?europe=true#DN51qmwXpPq3) — Mashable.
 * [ESPN+](https://plus.espn.com/)
@@ -608,7 +597,6 @@
 
 ### [Smashing Security: 110: What? You can get paid to leave Facebook?](http://www.smashingsecurity.com/110)
 
-* [Equifax Was Warned](https://motherboard.vice.com/en_us/article/ne3bv7/equifax-breach-social-security-numbers-researcher-warning) — Motherboard.
 * [Remove Background from Image - remove.bg.](https://www.remove.bg/)
 * [&#39;Tidying Up With Marie Kondo&#39; Is a Quiet Delight](https://www.theatlantic.com/entertainment/archive/2019/01/tidying-up-with-marie-kondo-netflix-show-kon-mari-review/579400/) — The Atlantic.
 * [Tidying Up with Marie Kondo | Official Trailer](https://www.youtube.com/watch?v=WvyeapVBLWY) — YouTube.
@@ -1106,19 +1094,16 @@
 
 ### [Smashing Security: 046: Good beard bad beard](http://www.smashingsecurity.com/46)
 
-* [Wi-Fi sex toy with built-in camera fails penetration test - The Register Forums](https://forums.theregister.co.uk/forum/1/2017/04/04/intimate_adult_toy_fails_penetration_test/)
+* [Wi-Fi sex toy with built-in camera fails penetration test](https://forums.theregister.co.uk/forum/1/2017/04/04/intimate_adult_toy_fails_penetration_test/) - The Register Forums.
 * [Topo by Ergodriven](http://ergodriven.com/topo/)
-* [Dirk Gently&#39;s Holistic Detective Agency - IMDb](http://www.imdb.com/title/tt4047038/?ref_=nv_sr_1)
-* [Dead roach in Utah man’s milkshake becomes Twitter hero - KSL.com](https://www.ksl.com/?sid=45957914&amp;nid=148&amp;title=dead-roach-in-utah-mans-milkshake-becomes-twitter-hero)
-* [Trevor The Roach: A Tribute Movie](https://twitter.com/sehnaoui/status/912151355799859201?ref_src=twsrc%5Etfw&amp;ref_url=https%3A%2F%2Fwww.ksl.com%2F%3Fsid%3D45957914%26nid%3D148%26title%3Ddead-roach-in-utah-mans-milkshake-becomes-twitter-hero)
+* [Dirk Gently&#39;s Holistic Detective Agency](http://www.imdb.com/title/tt4047038/?ref_=nv_sr_1) - IMDb.
+* [Dead roach in Utah man’s milkshake becomes Twitter hero](https://www.ksl.com/?sid=45957914&amp;nid=148&amp;title=dead-roach-in-utah-mans-milkshake-becomes-twitter-hero) - KSL.com.
+* [Trevor The Roach: A Tribute Movie](https://twitter.com/sehnaoui/status/912151355799859201) - Twitter.
 
 ### [Smashing Security: 045: Deloitte fail, CCleaner, and dotards on Twitter](http://www.smashingsecurity.com/45)
 * [Wildergorn colour-in posters](http://www.wildergorn.com/)
-* [Star Trek: Discovery - CBS](http://www.cbs.com/shows/star-trek-discovery/)
-* [Rick and Morty - Wikipedia](https://en.wikipedia.org/wiki/Rick_and_Morty)
-
-### [Smashing Security: 044: Bonus behind the scenes - shower time](http://www.smashingsecurity.com/44)
-
+* [Star Trek: Discovery](http://www.cbs.com/shows/star-trek-discovery/) - CBS.
+* [Rick and Morty](https://en.wikipedia.org/wiki/Rick_and_Morty) - Wikipedia.
 
 ### [Smashing Security: 043: Backups - a necessary evil?](http://www.smashingsecurity.com/43)
 
@@ -1131,23 +1116,21 @@
 ### [Smashing Security: 042: Equifax, BlueBorne, and the iPhone X](http://www.smashingsecurity.com/42)
 
 * [Chessable](https://www.chessable.com/)
-* [The science that makes chess learning easier - Chessable.com](https://www.chessable.com/science/)
-* [You can actually be allergic to exercise - Pop Science](http://www.popsci.com/you-can-actually-be-allergic-to-exercise)
-* [Dr Mandell&#39;s Push and Pull Technique (20-Second Neck Pain Relief) - YouTube](https://www.youtube.com/watch?v=xMja3iZNOZQ)
-* [It&#39;s all about the Squinch! - YouTube](https://www.youtube.com/watch?v=ff7nltdBCHs)
+* [The science that makes chess learning easier](https://www.chessable.com/science/) - Chessable.
+* [You can actually be allergic to exercise](http://www.popsci.com/you-can-actually-be-allergic-to-exercise) - Pop Science.
+* [Dr Mandell&#39;s Push and Pull Technique (20-Second Neck Pain Relief)](https://www.youtube.com/watch?v=xMja3iZNOZQ) - YouTube.
+* [It&#39;s all about the Squinch!](https://www.youtube.com/watch?v=ff7nltdBCHs) - YouTube.
 
 ### [Smashing Security: 041: Hacking Instagram, facial failures, and spying bosses](http://www.smashingsecurity.com/41)
 
-* [The Big Sick (2017) - IMDb](http://www.imdb.com/title/tt5462602/)
-* [Group Therapy Radio | Streaming live every Friday - YouTube](https://www.youtube.com/playlist?list=PL6RLee9oArCArCAjnOtZ17dlVZQxaHG8G)
-* [Above &amp; Beyond - SoundCloud](https://soundcloud.com/aboveandbeyond)
+* [The Big Sick (2017)](http://www.imdb.com/title/tt5462602/) - IMDb.
+* [Group Therapy Radio](https://www.youtube.com/playlist?list=PL6RLee9oArCArCAjnOtZ17dlVZQxaHG8G) - YouTube.
+* [Above &amp; Beyond](https://soundcloud.com/aboveandbeyond) - SoundCloud.
 * [Above &amp; Beyond present Group Therapy 250](http://www.abgt250.com/)
 * [How To Fix a Toilet And Other Things We Can&#39;t Do Without Search](http://how-to-fix-a-toilet.com/)
 
 ### [Smashing Security: 040: The show that cost Troy Hunt 14 dollars](http://www.smashingsecurity.com/40)
 * [The Phoenix Comic](https://www.thephoenixcomic.co.uk/)
-* [Little Ripper Lifesaver Drones Spot Sharks Electronically](https://www.youtube.com/watch?v=Sylx-GP3AqA) — YouTube.
-* [ChirpChange](https://web.archive.org/web/20181202012522/https://chirpchange.io/)
 
 ### [Smashing Security: 039: Woah - are we talking to a cyborg?](http://www.smashingsecurity.com/39)
 * [Overcooked](https://www.team17.com/games/overcooked/) — Team 17.
@@ -1161,15 +1144,14 @@
 
 ### [Smashing Security: 037: Boobs, dragons and data breaches](http://www.smashingsecurity.com/37)
 
-* [Adult Life Skills (2016) - IMDb](http://www.imdb.com/title/tt4211044/)
-* [Intelligence (Canadian TV series) - Wikipedia](https://en.wikipedia.org/wiki/Intelligence_(Canadian_TV_series))
+* [Adult Life Skills (2016)](http://www.imdb.com/title/tt4211044/) - IMDb.
+* [Intelligence (Canadian TV series)](https://en.wikipedia.org/wiki/Intelligence_(Canadian_TV_series)) - Wikipedia.
 * [Secrets, Crimes &amp; Audiotape](http://wondery.com/wondery/shows/secretscrimes/)
-* [BBC Radio 4 - Seriously...](http://www.bbc.co.uk/programmes/p05bv964)
+* [BBC Radio 4 - Seriously...](http://www.bbc.co.uk/programmes/p05bv964) - BBC.
 * [Smashing Security online store](http://www.smashingsecurity.com/store)
 
 ### [Smashing Security: 036: Flash? Clunk flush... and hacking security researchers](http://www.smashingsecurity.com/36)
 
-* [Long Distance](https://gimletmedia.com/shows/reply-all/6nh3wk/) — Reply All podcast by Gimlet Media.
 * [Tickled movie](https://en.wikipedia.org/wiki/Tickled) — Wikipedia.
 * [Tickled documentary to air on HBO with bonus follow-up special](http://www.avclub.com/article/tickled-documentary-air-hbo-bonus-follow-special-249832) — The A.V. Club.
 * [Clock face with actual human face uses eyes to tell time](http://mashable.com/2017/08/01/human-face-clock-japan-design-studio/#EAMownFPIiqr) — Mashable.
@@ -1192,29 +1174,23 @@
 
 ### [Smashing Security: 033: 1Password, net neutrality, and spatchcock chicken](https://www.smashingsecurity.com/33)
 
-* [Southern on Twitter: &quot;Hi, Eddie here! Here on Work Experience and ready to answer your questions! 😊&quot;](https://twitter.com/SouthernRailUK/status/884769193366867968)
-* [The Red Pill - Wikipedia](https://en.wikipedia.org/wiki/The_Red_Pill)
+* [Southern on Twitter: &quot;Hi, Eddie here! Here on Work Experience and ready to answer your questions! 😊&quot;](https://twitter.com/SouthernRailUK/status/884769193366867968) - Twitter.
+* [The Red Pill](https://en.wikipedia.org/wiki/The_Red_Pill) - Wikipedia.
 * [Rapidfire Chimney Starter | Official Weber® Website](https://www.weber.com/GB/en/accessories/charcoal-briquettes/rapidfire-chimney-starter)
 * [Griddled spatchcock poussins with shallot vinaigrette recipe - Telegraph](http://www.telegraph.co.uk/foodanddrink/recipes/10169604/Griddled-spatchcock-poussins-with-shallot-vinaigrette-recipe.html)
 
 ### [Smashing Security: 032: The iPhone 8, a data breach at the AA, and a mystery no show](https://www.smashingsecurity.com/32)
 
-* [He thought a book would stop a bullet and make him a YouTube star. Now he’s dead. - The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/06/29/he-thought-a-book-would-stop-a-bullet-and-make-him-a-youtube-star-now-hes-dead/?utm_term=.0aa6af05f617)
+* [He thought a book would stop a bullet and make him a YouTube star. Now he’s dead.](https://www.washingtonpost.com/news/morning-mix/wp/2017/06/29/he-thought-a-book-would-stop-a-bullet-and-make-him-a-youtube-star-now-hes-dead/?utm_term=.0aa6af05f617) - The Washington Post.
 * [Firik Sleep Headphones | Amazon](https://www.amazon.com/Upgrade-Summer-Sales-Lycra-Headphones/dp/B011L8UQDA/)
 
 ### [Smashing Security: 031: Petya (don&#39;t know the name of this ransomware)](https://www.smashingsecurity.com/31)
 
 * [Cybersecurity History Podcast | Malicious Life](https://malicious.life/)
-* [50th anniversary of the ATM opens debate about mobile payments • The Register](https://www.theregister.co.uk/2017/06/27/atm_at_50/)
+* [50th anniversary of the ATM opens debate about mobile payments](https://www.theregister.co.uk/2017/06/27/atm_at_50/) - The Register.
 * [The Bright Sessions](http://www.thebrightsessions.com/)
 
 ### [Smashing Security: 030: GDPR - The good and the bad](http://www.smashingsecurity.com/30)
-
-* [The EU&#39;s GDPR legislation](http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1497261922341&amp;uri=CELEX:32016R0679) — A gentle read before bedtime...
-* [EU data protection rules affect everyone, say legal experts](http://www.computerweekly.com/news/4500270456/EU-data-protection-rules-affect-everyone-say-legal-experts) — The EU&#39;s new data protection rules will impact every entity that holds or uses European personal data both inside and outside of Europe, according to legal experts.
-* [Preparing for GDPR - 12 steps to take now (PDF)](https://ico.org.uk/media/2014146/gdpr-12-steps-infographic-201705.pdf) — Advice from the UK&#39;s Information Commissioner&#39;s Office.
-* [EU GDPR demystified: a straight-forward guide for US firms (Part I) –](https://tbgsecurity.com/eu-gdpr-demystified-a-straight-forward-guide-for-us-firms-part-1/) — Our own Carole Theriault writes about GDPR on the TBG Security blog.
-* [EU GDPR demystified: a straightforward reference guide for US firms (Part II)](https://tbgsecurity.com/eu-gdpr-demystified-a-straightforward-reference-guide-for-us-firms-part-two/) — More from Carole Theriault on the TBG Security blog.
 
 ### [Smashing Security: 029: Exploits to get your English teeth into](https://www.smashingsecurity.com/29)
 
@@ -1224,8 +1200,13 @@
 
 ### [Smashing Security: 024: Reality Winner, Gordon Ramsay and a leaky bucket](http://www.smashingsecurity.com/24)
 
-* [Smashing Security: 014: Protecting webmail - a Smashing Security splinter](http://www.smashingsecurity.com/014-protecting-webmail-a-smashing-security-splinter) — In this podcast we run through our tips on how to better secure your web-based email accounts. Chances are that you&#39;re not doing all of these!
-* [Smashing Security: Passwords - a Smashing Security splinter](http://www.smashingsecurity.com/passwords) — Password best practices explained in our podcast.
 * [Boxcryptor - Encryption software to secure cloud files](https://www.boxcryptor.com/en/) — Encrypt your files before you shove them in the cloud...
 * [How to use Google Maps offline](https://www.androidcentral.com/how-use-google-maps-offline) — Ian&#39;s tip on how to use your smartphone to navigate, even when you don&#39;t have a data connection.
 * [Trump in translation: president&#39;s mangled language stumps interpreters](https://www.theguardian.com/us-news/2017/jun/06/trump-translation-interpreters) — Carole&#39;s pick of the week from The Guardian.
+
+### [Smashing Security: 023:Covfefe](https://www.https://www.smashingsecurity.com/23)
+
+* [Sgt. Pepper's Lonely Hearts Club Band](http://www.thebeatles.com/album/sgt-peppers-lonely-hearts-club-band) - The Beatles
+* [Spanish art restorer, 82, who turned Jesus into a 'hairy monkey' in clumsy restoration of famous work signs merchandising deal as image gets imprinted on T-shirts](http://www.dailymail.co.uk/news/article-2400354/Spanish-art-restorer-82-turned-Jesus-hairy-monkey-clumsy-restoration-famous-work-signs-merchandising-deal-image-gets-imprinted-T-shirts.html) - Daily Mail
+* [Clash of Clans](http://supercell.com/en/games/clashofclans/)
+* [This is what Candy Crush does to your brain](https://www.theguardian.com/science/blog/2014/apr/01/candy-crush-saga-app-brain) - The Guardian

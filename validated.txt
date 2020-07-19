@@ -1,4 +1,10 @@
 # This document contains the list of episodes that have been validated.
-185-187
+181-187
+166
+117
+116
+110
+109
 105
-29-40
+29-46
+24
