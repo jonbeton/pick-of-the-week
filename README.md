@@ -1030,12 +1030,6 @@
 * [Tom Baker returns to finish shelved Doctor Who episodes penned by Douglas Adams](http://www.theregister.co.uk/2017/11/27/tom_baker_completes_cancelled_doctor_who_serial_shada/)
 * [Bitcoin: How Does it Work? (Roger Ver Interview)](https://www.youtube.com/watch?v=N6NscwzbMvI)
 
-### [Smashing Security: 054: A great big fat macOS bug](http://www.smashingsecurity.com/54)
-
-* [Tweet by Lemi Ergin](https://twitter.com/lemiorhan/status/935578694541770752)
-* [Huge MacOS bug lets anyone login as root without a password: what you need to know](https://www.grahamcluley.com/huge-macos-bug-lets-anyone-login-root-without-password-need-know/)
-* [How to enable the root user on your Mac or change your root password - Apple Support](https://support.apple.com/en-us/HT204012)
-
 ### [Smashing Security: 053: Game of Thrones, a major Amazon cloud leak, and web tracking gone crazy](http://www.smashingsecurity.com/53)
 
 * [Paddington Bear, Singin&#39; in the rain](https://www.youtube.com/watch?v=w49H_TRB5vI)
