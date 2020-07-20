@@ -990,16 +990,10 @@
 * [Focus - Productivity Timer on the App Store](https://itunes.apple.com/gb/app/focus-productivity-timer/id975017240?mt=8)
 * [Casefile: True Crime Podcast](http://casefilepodcast.com/)
 
-### [Smashing Security: 059: An intro to Bitcoin and Blockchain](http://www.smashingsecurity.com/59)
-
-* [Silk Road&#39;s Ross Ulbricht sentenced to life in prison, without parole](https://www.grahamcluley.com/silk-road-prison-tragedy/)
-* [Bitcoin Energy Consumption Index](https://digiconomist.net/bitcoin-energy-consumption)
-* [Jaxx mobile cryptocurrency wallet](https://jaxx.io/)
-* [Trezor hardware Bitcoin wallet](https://trezor.io/)
-* [&#34;Explain Blockchain&#34; podcast](https://explainblockchain.io/)
-
 ### [Smashing Security: 058: Face ID, Firefox, and Windows SNAFUs, plus Bitcoin FOMO](http://www.smashingsecurity.com/58)
 
+* [Bitcoin FOMO Calculator](https://bitcoinfomo.club/)
+* [Oh, My Coins! - Database Of Lost Crypto Assets](http://www.ohmycoins.xyz/)
 * [Missing: hard drive containing Bitcoins worth £4m in Newport landfill site](https://www.theguardian.com/technology/2013/nov/27/hard-drive-bitcoin-landfill-site)
 * [Is Bulgaria sitting on $3.5 BILLION worth of Bitcoin seized from criminals?](https://www.grahamcluley.com/bulgaria-sitting-3-5-billion-worth-bitcoin-seized-criminals/)
 * [WeCroak on the App Store](https://itunes.apple.com/us/app/wecroak/id1248149943?mt=8)
@@ -1008,7 +1002,6 @@
 
 ### [Smashing Security: 057: Mikko - live from the sauna - talks Bitcoin security](http://www.smashingsecurity.com/57)
 
-* [Black Friday Delivery THIEVES: 1 in 5 UK packages missing as thefts SURGE before Christmas](https://www.express.co.uk/news/uk/882787/black-friday-2017-christmas-next-day-free-delivery-stolen-theft)
 * [Code.org](https://code.org/)
 * [The Arcade Blogger](https://arcadeblogger.com/)
 * [The Happiness of the Katakuris](https://en.wikipedia.org/wiki/The_Happiness_of_the_Katakuris)
@@ -1016,7 +1009,6 @@
 
 ### [Smashing Security: 056: Peeping Toms, prison hacks, and parliamentary passwords](http://www.smashingsecurity.com/56)
 
-* [What are Airbnb’s rules about electronic surveillance devices in listings?](https://www.airbnb.co.in/help/article/887/what-are-airbnb-s-rules-about-electronic-surveillance-devices-in-listings)
 * [Colorise Bot (@colorisebot) on Twitter](https://twitter.com/colorisebot)
 * [The science behind @Colorisebot](https://finnian.io/blog/colourising-video-with-openfaas-serverless-functions/)
 * [The Leftovers](https://en.wikipedia.org/wiki/The_Leftovers_(TV_series))
@@ -1024,8 +1016,6 @@
 
 ### [Smashing Security: 055: Uber, net neutrality, and website hacks](http://www.smashingsecurity.com/55)
 
-* [Americans are spending Thanksgiving fighting for net neutrality](https://www.theverge.com/2017/11/23/16694128/net-neutrality-protests-fcc-ajit-pai-internet)
-* [An update on the fight for the free and open internet](https://www.reddit.com/r/blog/comments/7fx1x4/an_update_on_the_fight_for_the_free_and_open/)
 * [Google YouTube Keyboard Shortcuts](https://sites.google.com/a/umich.edu/going-google/accessibility/google-keyboard-shortcuts---youtube)
 * [Tom Baker returns to finish shelved Doctor Who episodes penned by Douglas Adams](http://www.theregister.co.uk/2017/11/27/tom_baker_completes_cancelled_doctor_who_serial_shada/)
 * [Bitcoin: How Does it Work? (Roger Ver Interview)](https://www.youtube.com/watch?v=N6NscwzbMvI)
