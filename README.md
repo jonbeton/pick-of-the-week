@@ -1046,7 +1046,6 @@
 
 ### [Smashing Security: 052: Facebook tackles vengeful scumbags, and a sex toy privacy boob](http://www.smashingsecurity.com/52)
 
-* [Man Uses DDoS-for-Hire Services to Attack Former Employer, Taunts Firm via Email](https://www.bleepingcomputer.com/news/security/man-uses-ddos-for-hire-services-to-attack-former-employer-taunts-firm-via-email/)
 * [Google&#39;s Inactive Account Manager](https://myaccount.google.com/u/1/inactive)
 * [Lee Valley Tools - Woodworking Tools, Gardening Tools, Hardware](http://www.leevalley.com/us/)
 * [Snap Circuits](http://www.snapcircuits.net/)
@@ -1062,11 +1061,11 @@
 
 ### [Smashing Security: 050: MailChimp, Piers Morgan, and The Dark Overlord](http://www.smashingsecurity.com/50)
 
+* ["Saved you a click" on Reddit](https://www.reddit.com/r/savedyouaclick/)
 * [Google CEO to fix burger emoji after heated debate cooks up on Twitter](http://www.foxnews.com/food-drink/2017/10/30/google-ceo-to-fix-burger-emoji-after-heated-debate-cooks-up-on-twitter.html)
 * [&#34;Get Me Roger Stone&#34;](https://en.wikipedia.org/wiki/Get_Me_Roger_Stone)
 * [Pencil Grip](https://www.amazon.co.uk/Pencil-Grip-Pack-3/dp/B000WEO5SC)
 * [Ignite Elite - Rechargeable USB Flameless Lighter](https://www.amazon.com/Ignite-Elite-Rechargeable-Flameless-Lighter/dp/B00AJUPMM2/)
-* [Smashing Security: Bonus behind the scenes - shower time](https://www.smashingsecurity.com/44)
 
 ### [Smashing Security: 049: Hacking funeral homes, crypto mining websites, and careful with that hairspray](http://www.smashingsecurity.com/49)
 
