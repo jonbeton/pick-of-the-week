@@ -920,6 +920,10 @@
 
 ### [Smashing Security: 068: Malware from outer space!](http://www.smashingsecurity.com/68)
 
+* [GET LAMP: The text adventure documentary](http://www.getlamp.com/)
+* [Leather Goddesses of Phobos](https://en.wikipedia.org/wiki/Leather_Goddesses_of_Phobos)
+* [GET LAMP: The Text Adventure Documentary - YouTube](https://www.youtube.com/watch?v=LRhbcDzbGSU)
+* [Infocom: The Documentary - YouTube](https://www.youtube.com/watch?v=OXNLWy7rwH4)
 * [Jacaranda Jim - retro text adventure game by Graham](https://www.grahamcluley.com/misc/jacaranda-jim/)
 * [Humbug - retro text adventure game for MS-DOS by Graham](https://www.grahamcluley.com/misc/humbug/)
 * [Warrington Cycle Campaign](http://wcc.crankfoot.xyz/index.htm)
@@ -936,7 +940,6 @@
 
 ### [Smashing Security: 066: Passwords, pirates, and postcards](http://www.smashingsecurity.com/66)
 
-* [IDN Safe for Opera](https://addons.opera.com/en/extensions/details/idn-safe/?display=en)
 * [Firefox users - Spot phishing URL&#39;s more easily by enabling Show Punycode](https://twitter.com/MickD/status/965610955366387712)
 * [Privacy.com](https://privacy.com/) — Dave&#39;s recommendation, not ours)
 * [How to remove your credit card information from your iPhone](http://www.idownloadblog.com/2017/01/25/how-to-remove-credit-card-information-from-iphone/)
@@ -960,6 +963,7 @@
 
 ### [Smashing Security: 063: Carole&#39;s back!](http://www.smashingsecurity.com/63)
 
+* [Josh Turner of The Other Favorites - YouTube](https://www.youtube.com/channel/UC3Wj9aO8VS5ZuXrtWfJf81w)
 * [The Levee by The Other Favorites - YouTube](https://www.youtube.com/watch?v=6bf_VTQ72hU)
 * [Blood on the Tracks by Bob Dylan](https://en.wikipedia.org/wiki/Blood_on_the_Tracks)
 * [United denies woman&#39;s attempt to bring peacock onto flight](http://uk.businessinsider.com/united-denies-womans-attempt-to-bring-peacock-onto-flight-2018-1?r=US&amp;IR=T)
@@ -968,7 +972,6 @@
 
 ### [Smashing Security: 062: Tinder spying, Amazon shoplifting, and petrol pump malware](http://www.smashingsecurity.com/62)
 
-* [Hacker Infects Gas Pumps with Code to Cheat Customers](https://threatpost.com/hacker-infects-gas-pumps-with-code-to-cheat-customers/129599/)
 * [Making Blake&#39;s Seven 101 - YouTube](https://www.youtube.com/watch?v=LQn-iXhepyI)
 * [Jon Alpert Speaks On His Film, &#34;Cuba and the Cameraman&#34; - YouTube](https://www.youtube.com/watch?v=TdmXTsSbKlI)
 * [Review: ‘Cuba and the Cameraman’ Lavishes Love on a Country … and Castro](https://www.nytimes.com/2017/11/23/movies/cuba-and-the-cameraman-review.html)
@@ -976,6 +979,8 @@
 
 ### [Smashing Security: 061: Fallout over Hawaii missile false alarm](http://www.smashingsecurity.com/61)
 
+* [@ruanyf on Twitter's picture of a visual display for a Chinese lavatory](https://twitter.com/ruanyf/status/952689006155726848)
+* [Police give out infected USBs as prizes in cybersecurity quiz](https://nakedsecurity.sophos.com/2018/01/12/police-give-out-infected-usbs-as-prizes-in-cybersecurity-quiz/)
 * [IBM distributes USB malware cocktail at AusCERT security conference](https://nakedsecurity.sophos.com/2010/05/21/ibm-distributes-usb-malware-cocktail-auscert-security-conference/)
 * [IBM has been shipping malware-infected USB sticks](https://www.grahamcluley.com/ibm-shipping-malware-infected-usb-sticks/)
 * [Olympus Stylus Tough camera carries malware infection](https://nakedsecurity.sophos.com/2010/06/08/olympus-stylus-tough-camera-carries-malware-infection/)
@@ -984,7 +989,6 @@
 
 ### [Smashing Security: 060: Meltdown, Spectre, and personal devices in the White House](http://www.smashingsecurity.com/60)
 
-* [“Fire and Fury” Is a Book All Too Worthy of the President](https://www.newyorker.com/news/our-columnists/fire-and-fury-is-a-book-all-too-worthy-of-the-president)
 * [Portal Knights - The award-winning sandbox action-RPG adventure game](http://www.portalknights.com/)
 * [Portal Knights trailer for Nintendo Switch - YouTube](https://www.youtube.com/watch?v=kv4Hhr4DvCA)
 * [Focus - Productivity Timer on the App Store](https://itunes.apple.com/gb/app/focus-productivity-timer/id975017240?mt=8)
