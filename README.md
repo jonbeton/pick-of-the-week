@@ -1092,14 +1092,6 @@
 * [Star Trek: Discovery](http://www.cbs.com/shows/star-trek-discovery/) - CBS.
 * [Rick and Morty](https://en.wikipedia.org/wiki/Rick_and_Morty) - Wikipedia.
 
-### [Smashing Security: 043: Backups - a necessary evil?](http://www.smashingsecurity.com/43)
-
-* [Carbonite cloud backup](https://www.carbonite.com/)
-* [Backblaze Online Backup](https://www.backblaze.com/)
-* [Mozy Cloud Storage &amp; Backup](http://mozy.com)
-* [Amazon Glacier](https://aws.amazon.com/glacier/)
-* [CloudBerry Lab - Cross-Platform Cloud Backup](https://www.cloudberrylab.com/)
-
 ### [Smashing Security: 042: Equifax, BlueBorne, and the iPhone X](http://www.smashingsecurity.com/42)
 
 * [Chessable](https://www.chessable.com/)
