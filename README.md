@@ -235,14 +235,6 @@
 * [President Nixon Never Actually Gave This Apollo 11 Disaster Speech. MIT Brought It To Life To Illustrate Power Of Deepfakes](https://www.wbur.org/news/2019/11/22/mit-nixon-deep-fake) — WBUR News.
 * [Which Classic Toy Came First?](https://www.mentalfloss.com/article/607727/quiz-which-classic-toy-came-first) — Mental Floss.
 
-### [Smashing Security: 156: Better safe than Sony](http://www.smashingsecurity.com/156)
-
-* [Poor passwords at Sony, WikiLeaks shows with archive of hacked documents](https://www.grahamcluley.com/wikileaks-sony-pictures-passwords/) — Graham Cluley.
-* [The Interview Trailer (2014)](https://www.youtube.com/watch?v=DkJA1rb8Nxo) — YouTube.
-* [U.S. Said to Find North Korea Ordered Cyberattack on Sony](https://www.nytimes.com/2014/12/18/world/asia/us-links-north-korea-to-sony-hacking.html) — The New York Times.
-* [Sony hackers failed to hide their North Korean IP addresses, says FBI](https://hotforsecurity.bitdefender.com/blog/sony-hackers-failed-to-hide-their-north-korean-ip-addresses-says-fbi-11141.html) — Hot for Security.
-* [NSA allegedly hacked North Korea&#39;s networks before Sony attacks](https://www.grahamcluley.com/nsa-hacked-north-koreas-networks-sony-attacks-theres-obvious-question/) — Graham Cluley.
-
 ### [Smashing Security: 155: Juice jacking, YouTube hacking, password slacking](http://www.smashingsecurity.com/155)
 
 * [The Crown](https://www.netflix.com/title/80025678) — Netflix.
