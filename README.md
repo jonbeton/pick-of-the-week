@@ -1,3 +1,35 @@
+### [Smashing Security: 191: We are on the bird](https://www.smashingsecurity.com/191) 
+
+* [Quoridor](https://en.wikipedia.org/wiki/Quoridor)  — Wikipedia.
+* [Quoridor](https://boardgamegeek.com/boardgame/624/quoridor)  — BoardGameGeek.
+* [BLACK & DECKER 20V LBX20 Li-Ion Battery USB Power Source Adapter w/DC 12V Port ](https://www.ebay.com/itm/BLACK-DECKER-20V-LBX20-Li-Ion-Battery-USB-Power-Source-Adapter-w-DC-12V-Port-/373091506301) — eBay.
+* [The Young Offenders](https://www.bbc.co.uk/iplayer/episodes/p05v9qqg/the-young-offenders)  — BBC iPlayer.
+
+### [Smashing Security: 190: Twitter hack arrests, email bad behaviour, and Fawkes vs facial recognition](https://www.smashingsecurity.com/190) 
+
+* [Rush Hour puzzle ](https://en.wikipedia.org/wiki/Rush_Hour_(puzzle))  — Wikipedia.
+* [Rush Hour games](https://www.thinkfun.com/products/type/rush-hour-games/)  — ThinkFun.
+* [How To Play: Rush Hour - by ThinkFun](https://www.youtube.com/watch?v=HI0rlp7tiZ0)  — YouTube.
+* [Unblock Me](https://apps.apple.com/us/app/unblock-me/id315019111)  — iOS App Store.
+* [Origins - How the earth shaped human history](http://lewisdartnell.com/en-gb/2019/01/origins-earth-made-us/)  — Lewis Dartnell.
+* [The Umbrella Academy ](https://www.netflix.com/gb/title/80186863) — Netflix.
+
+### [Smashing Security: 189: DNA cock-up, Garmin hack, and virtual kidnappings](https://www.smashingsecurity.com/189) 
+
+* [SecondHandSongs.](https://secondhandsongs.com/) 
+* [Doomsday Algorithm](http://rudy.ca/doomsday.html)  — Just in case you didn't understand Ray's explanation...
+* [Incredibox.](https://www.incredibox.com/demo/v2) 
+
+### [Smashing Security: 188: Dinner with Elon Musk and Kris Jenner](https://www.smashingsecurity.com/188) 
+
+* [President Trump goes one-on-one with Chris Wallace](https://www.youtube.com/watch?v=W6XdpDOH1JA)  — YouTube.
+* [Montreal Cognitive Assessment (MOCA)](https://www.parkinsons.va.gov/resources/MOCA-Test-English.pdf)  — A similar test to that taken by President Donald Trump.
+* [Quiz: Could you pass Donald Trump's cognitive test?](https://www.bbc.co.uk/news/world-us-canada-42717163)  — BBC News.
+* ["How to cognitive"](https://twitter.com/sarahcpr/status/1281631729409822722)  — Sarah Cooper on Twitter.
+* [Don't F**k with Cats: Hunting an Internet Killer](https://www.imdb.com/title/tt11318602/)  — IMDB.
+* [60 Versions of Leonard Cohen's 'Hallelujah,' Ranked](https://www.newsweek.com/60-versions-leonard-cohens-hallelujah-ranked-303580)  — Newsweek.
+* [Hallelujah (COVER) - Shaun Brown & Jeremy Dunham](https://www.youtube.com/watch?v=ILJWolcWgVo)  — YouTube.
+
 ### [Smashing Security: 187: Huawei ban, MGM hack, and a contact-tracing cock-up](http://www.smashingsecurity.com/187)
 
 * [Windowswap.](https://window-swap.com/)
