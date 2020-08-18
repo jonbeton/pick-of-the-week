@@ -690,6 +690,7 @@
 
 ### [Smashing Security: 101: Rule 34, Twitter scams, and Facebook fails](http://www.smashingsecurity.com/101)
 
+* [Former CIA Chief Explains How Spies Use Disguises](https://www.youtube.com/watch?v=JASUsVY5YJ8)  — YouTube
 * [What Makes ‘The Good Place’ So Good?](https://www.nytimes.com/interactive/2018/10/04/magazine/good-place-michael-schur-philosophy.html) — The New York Times
 * [The Good Place Season 1 Trailer](https://www.youtube.com/watch?v=RfBgT5djaQw) — YouTube
 * [Trolley problem](https://en.wikipedia.org/wiki/Trolley_problem) — Wikipedia
@@ -698,18 +699,15 @@
 
 ### [Smashing Security: 100: IoT failures, and Donald Trump dating disaster](http://www.smashingsecurity.com/100)
 
+* [Blue Peter](https://en.wikipedia.org/wiki/Blue_Peter)  — Wikipedia
 * [Tony Walsh&#39;s beautiful tribute to Blue Peter will give you goosebumps](https://twitter.com/cbbc/status/1051408017709785088) — CBBC on Twitter
 * [Janet Ellis](https://en.wikipedia.org/wiki/Janet_Ellis) — Wikipedia
 * [Sophie Ellis-Bextor](https://en.wikipedia.org/wiki/Sophie_Ellis-Bextor) — Wikipedia
 * [Tony Walsh&#39;s performance of &#39;This Is The Place&#39; at the Manchester attack vigil](https://www.youtube.com/watch?v=_r0L3VjkFsc) — YouTube
 * [A Scary Time by Lynzy Lab](https://www.youtube.com/watch?v=N34hehRgw9g) — YouTube
 
-### [Smashing Security: 099: Passwords - A Smashing Security splinter (replay)](http://www.smashingsecurity.com/99)
-
-
 ### [Smashing Security: 098: A Facebook omnishambles](http://www.smashingsecurity.com/98)
 
-* [Conference apps are crap and (mostly) pointless](https://thenextweb.com/opinion/2018/10/01/conference-apps-are-crap-and-mostly-pointless/)
 * [The The One Show Show on iTunes](https://itunes.apple.com/gb/podcast/the-the-one-show-show/id1375909326)
 * [manwhohasitall (@manwhohasitall) on Twitter](https://twitter.com/manwhohasitall)
 * [Tiburn Enterprise Star Trek PC at Lenovo Tech World 2018 - YouTube](https://www.youtube.com/watch?v=9N9whBbXm2k)
@@ -717,15 +715,12 @@
 
 ### [Smashing Security: 097: Dash cam surveillance, robocall plague, and Zoho woe](http://www.smashingsecurity.com/97)
 
-* [US Court Finds Anti-Robocall Rule Made Nearly Every Smartphone User a Criminal](https://gizmodo.com/us-court-rules-anti-robocall-law-made-nearly-everyone-a-1823839327)
-* [Stop Unwanted Robocalls and Texts - FCC](https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts)
 * [Leatherman Micra 10-in-1 Multi-Tool](https://www.leatherman.com/micra-20.html)
 * [Techmoan - YouTube](https://www.youtube.com/channel/UC5I2hjZYiW9gZPVkvzM8_Cw)
 * [The Guild of Ambience - YouTube](https://www.youtube.com/channel/UCvVWCrxq_aZr7fN_KpaGGTA)
 
 ### [Smashing Security: 096: Bribing Amazon staff, and blinking deepfakes](http://www.smashingsecurity.com/96)
 
-* [Reddit bans ‘deepfakes’ AI porn communities](https://www.theverge.com/2018/2/7/16982046/reddit-deepfakes-ai-celebrity-face-swap-porn-community-ban?utm_source=datafloq&amp;utm_medium=ref&amp;utm_campaign=datafloq)
 * [Bitcoin Price Prediction Tracker](https://bircoin.top/)
 * [Serious Eats: The Destination for Delicious](https://www.seriouseats.com/)
 * [JoyofBaking.com](https://www.joyofbaking.com/)
@@ -741,6 +736,8 @@
 
 ### [Smashing Security: 094: Rogue browser extensions, Twitter presence, and how to cheat in exams](http://www.smashingsecurity.com/94)
 
+* [Tower – Official Trailer - YouTube](https://www.youtube.com/watch?v=GTzNkfgM1vE) 
+* [Tower - Netflix](https://www.netflix.com/title/80103666) 
 * [Cone - Live Color Picker](https://coneapp.io/)
 * [The dress - Wikipedia](https://en.wikipedia.org/wiki/The_dress)
 * [A professor and his son-in-law came up with a brilliant invention to slash water use by 98% – Ikea is already a partner](https://nordic.businessinsider.com/a-professor-and-his-son-in-law-came-up-with-a-brilliant-invention-to-slash-water-use-by-98--ikea-is-already-a-partner--/?utm_source=reddit.com)
@@ -749,7 +746,6 @@
 
 ### [Smashing Security: 093: Abandoned domains and dating app dangers](http://www.smashingsecurity.com/93)
 
-* [Gibbons have the longest arms relative to body size of any primate](https://www.bbc.co.uk/programmes/p01w0m4v/p01w0mm2)
 * [Bomb Chicken Teaser Trailer - YouTube](https://www.youtube.com/watch?v=3El1BT0aC4o)
 * [Bomb Chicken for Nintendo Switch](https://www.nintendo.com/games/detail/bomb-chicken-switch)
 * [Fortnite fury over how Google handled its security hole](https://www.grahamcluley.com/fortnite-fury-over-how-google-handled-its-huge-security-hole/)
@@ -757,15 +753,12 @@
 
 ### [Smashing Security: 092: Hacky sack hack hack](http://www.smashingsecurity.com/92)
 
-* [Prenda Law stories at Techdirt](https://www.techdirt.com/blog/?company=prenda+law)
-* [Minneapolis lawyer pleads guilty to federal fraud, money laundering charges in porn troll scheme](http://m.startribune.com/minneapolis-lawyer-pleads-guilty-to-federal-fraud-money-laundering-charges-in-porn-troll-scheme/491116791/)
 * [Cybercrime Investigations podcast with Geoff White](https://soundcloud.com/ybercrimenvestigations)
 * [Flash Drives for Freedom](https://flashdrivesforfreedom.org/)
 * [Final Space](https://www.netflix.com/gb/title/80174479)
 
 ### [Smashing Security: 091: Sextortion, Las Vegas hotels, and Alex Jones](http://www.smashingsecurity.com/91)
 
-* [Shannon Coulter tweets about blocking Fortune 500 companies until Alex Jones is banned from Twitter](https://twitter.com/shannoncoulter/status/1028632688586936320)
 * [lichess.org - Free Online Chess](https://lichess.org/)
 * [Magnus Carlsen playing as Dr Drunkenstein - YouTube](https://www.youtube.com/watch?v=vOwwAzMAacs)
 * [Octopath Traveler for Nintendo Switch](https://octopathtraveler.nintendo.com/)
@@ -773,7 +766,6 @@
 
 ### [Smashing Security: 090: Fortnite for Android, and the FCC&#39;s DDoS BS](http://www.smashingsecurity.com/90)
 
-* [Inside the FCC&#39;s risky IT overhaul](https://www.fedscoop.com/david-bray-fcc-it-overhaul/)
 * [The Triceratops Who Loved Me: A Primal Urges Extreme Fantasy - Amazon](https://www.amazon.com/Triceratops-Who-Loved-Me-Extreme/dp/152105908X/)
 * [A Good Movie To Watch](https://agoodmovietowatch.com/)
 * [Overcooked! 2 for Nintendo Switch](https://www.nintendo.com/games/detail/overcooked-2-switch)
@@ -789,7 +781,6 @@
 
 ### [Smashing Security: 088: PayPal’s Venmo app even makes your drug purchases public](http://www.smashingsecurity.com/88)
 
-* [PayPal&#39;s Venmo App Exposes Most Transactions via Its API](https://www.bleepingcomputer.com/news/security/paypals-venmo-app-exposes-most-transactions-via-its-api/)
 * [Reporting Trump&#39;s First Year: The Fourth Estate - BBC](https://www.bbc.co.uk/programmes/b0b8lfhc)
 * [Why No HTTPS? The World&#39;s Largest Websites Not Redirecting Insecure Requests to HTTPS](https://whynohttps.com/)
 * [Scott Helme tweets about NewsNow&#39;s support for both HTTP and HTTPS](https://twitter.com/Scott_Helme/status/1021772923911192577)
@@ -797,23 +788,17 @@
 
 ### [Smashing Security: 087: How Russia hacked the US election](http://www.smashingsecurity.com/87)
 
-* [California Shopping Centers Are Spying for an ICE Contractor](https://www.eff.org/deeplinks/2018/07/california-shopping-centers-are-spying-ice-contractor)
-* [California passes landmark privacy legislation](https://iapp.org/news/a/california-passes-landmark-privacy-legislation/)
-* [Walmart&#39;s Newly Patented Technology For Eavesdropping On Workers Presents Privacy Concerns](https://www.buzzfeednews.com/article/carolineodonovan/walmart-just-patented-audio-surveillance-technology-for)
 * [Find a track - BBC Music](https://www.bbc.co.uk/music/tracks/find)
 * [The Staircase - Netflix](https://www.netflix.com/gb/title/80233441)
 
 ### [Smashing Security: 086: Elon Musk submarine scams and 2FA bypass](http://www.smashingsecurity.com/86)
 
-* [YouTube Pledges $25 Million to Help Fight Fake News](https://variety.com/2018/digital/news/youtube-fake-news-investment-journalism-1202868956/)
-* [Timehop security incident](https://www.timehop.com/security)
 * [what3words | Addressing the world](https://map.what3words.com/daring.lion.race)
 * [Justified Season 1 Promo / trailer - YouTube](https://www.youtube.com/watch?v=ihxiFseaa30)
 * [Dear Joan and Jericha: agony aunts of the most ribald kind](https://www.theguardian.com/tv-and-radio/2018/jun/29/dear-joan-and-jericha-agony-aunts-of-the-most-ribald-kind-podcasts-of-the-week)
 
 ### [Smashing Security: 085: Doctor Who, Facebook patents, and Bob&#39;s Burgers](http://www.smashingsecurity.com/85)
 
-* [Killing Kittens sex party founder hopes new DateSafe app can improve women&#39;s safety](http://www.wired.co.uk/article/safedate-dating-app-killing-kittens-founder)
 * [GeoGuessr - Let&#39;s explore the world!](https://geoguessr.com/)
 * [Playground Buddy - Helping Families Find Playgrounds](https://www.playgroundbuddy.com/)
 * [Blue Apron is releasing a smart, strong, sensual Bob’s Burgers meal kit](https://thetakeout.com/blue-apron-releasing-a-bob-s-burgers-meal-kit-1827236976)
@@ -821,6 +806,7 @@
 
 ### [Smashing Security: 084: No! My voice is not my password](http://www.smashingsecurity.com/84)
 
+* [Music-Map - The Tourist Map of Music](https://www.music-map.com/) 
 * [Del Amitri](http://www.delamitri.info/)
 * [Ron Sexsmith](http://www.ronsexsmith.com/)
 * [BBC Radio 4 - Short Cuts](https://www.bbc.co.uk/programmes/b0b6m9jt)
@@ -829,14 +815,12 @@
 
 ### [Smashing Security: 083: Fake email derails clarinetist&#39;s dream](http://www.smashingsecurity.com/83)
 
-* [Google’s Newest Feature: Find My Home](https://www.tripwire.com/state-of-security/vert/googles-newest-feature-find-my-home/)
-* [Steve Gibson&#39;s Three Router Solution to IOT Insecurity](https://www.pcper.com/reviews/General-Tech/Steve-Gibsons-Three-Router-Solution-IOT-Insecurity)
-* [Google Removes &#39;Don&#39;t Be Evil&#39; Clause From Its Code of Conduct](https://gizmodo.com/google-removes-nearly-all-mentions-of-dont-be-evil-from-1826153393)
 * [Password Minder Infomercial - YouTube](https://www.youtube.com/watch?v=sgbRbYlojm8)
 * [LaDonna - This American Life](https://www.thisamericanlife.org/647/ladonna)
 
 ### [Smashing Security: 082: World Cup cybersecurity, crypto crashes, and a bang of a password fail](http://www.smashingsecurity.com/82)
 
+* [Is It Normal?](https://www.isitnormal.com/) 
 * [What is the Camino de Santiago?](https://www.caminoadventures.com/)
 * [Eating and Drinking on the Camino de Santiago](https://www.macsadventure.com/walking-holidays/eating-drinking-camino-de-santiago/)
 * [Pulperia Ezequiel - Great place to eat pulpo (octopus)](https://www.tripadvisor.co.uk/Restaurant_Review-g676305-d992523-Reviews-Pulperia_Ezequiel-Melide_Province_of_A_Coruna_Galicia.html)
@@ -845,7 +829,6 @@
 
 ### [Smashing Security: 081: Hacker no-hopers, Wessex Water has a word, and we win an award](http://www.smashingsecurity.com/81)
 
-* [Smashing Security review criticises Graham&#39;s enunciation](https://twitter.com/SmashinSecurity/status/1002441297737801728)
 * [Simplenote](https://simplenote.com/)
 * [Standard Notes](https://standardnotes.org/?s=fsweq58t)
 * [Evil Genius trailer - YouTube](https://www.youtube.com/watch?v=Qpdb9zo_1t8)
@@ -857,11 +840,9 @@
 * [Ebaybae on Instagram](https://www.instagram.com/ebaybae/)
 * [Brave Browser](https://brave.com/)
 * [The Complete Privacy &amp; Security Podcast discusses the Brave browser](https://soundcloud.com/user-98066669/063-brave-browser)
-* [See Smashing Security LIVE on tour in the UK](https://www.smashingsecurity.com/live)
 
 ### [Smashing Security: 079: Mugshots, mobile mania, and backend gurus](http://www.smashingsecurity.com/79)
 
-* [Apple Wants to Make Totally Unhackable iPhones](http://time.com/4237110/apple-iphone-unhackable-fbi/)
 * [A Very English Scandal (TV series)](https://en.wikipedia.org/wiki/A_Very_English_Scandal_(TV_series))
 * [Jeremy Thorpe affair - Wikipedia](https://en.wikipedia.org/wiki/Thorpe_affair)
 * [Moment – Automatically track your and your family&#39;s daily iPhone and iPad use](https://inthemoment.io/)
@@ -869,16 +850,12 @@
 
 ### [Smashing Security: 078: Hounds hunt hackers, too-human Google AI, and ethnic recognition tech - WTF?](http://www.smashingsecurity.com/78)
 
-* [Google Duplex: A.I. Assistant Calls Local Businesses To Make Appointments - YouTube](https://www.youtube.com/watch?v=D5VN56jQMWM)
-* [New Siri update - EXCLUSIVE PREVIEW - YouTube](https://www.youtube.com/watch?v=pNyujsxgAMo)
 * [Will Robots Take My Job?](https://willrobotstakemyjob.com/)
 * [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
 * [Signal](https://signal.org/)
 
 ### [Smashing Security: 077: Why Paris Hilton doesn’t use iCloud, lottery hacking, and Facebook dating](http://www.smashingsecurity.com/77)
 
-* [Lottery security director accused of hacking random-number generator](https://hotforsecurity.bitdefender.com/blog/lottery-security-director-accused-of-hacking-random-number-generator-to-win-14-3-million-11696.html)
-* [Iowa Lottery releases surveillance footage of mystery Hot Lotto winner - YouTube](https://www.youtube.com/watch?v=ej2c5niBRN4)
 * [Does the Dog Die?](https://www.doesthedogdie.com/)
 * [Kingdom Rush](https://www.kingdomrush.com/home.html)
 * [Sandra](https://www.gimletmedia.com/sandra)
@@ -891,9 +868,6 @@
 * [Elaine Paige, Barbara Dickson - I Know Him So Well &#34;From CHESS&#34; - YouTube](https://www.youtube.com/watch?v=s2SDInk6voA)
 * [World Community Grid - Research Overview](https://www.worldcommunitygrid.org/research/viewAllProjects.do)
 
-### [Smashing Security: 075: Quitting Facebook](http://www.smashingsecurity.com/75)
-
-
 ### [Smashing Security: 074: Smashing Security isn&#39;t bullsh*t](http://www.smashingsecurity.com/74)
 
 * [Automated Action Fraud Tech Support scam calls](https://www.actionfraud.police.uk/news/automated-action-fraud-tech-support-scam-calls-apr18)
@@ -904,6 +878,8 @@
 
 ### [Smashing Security: 073: Rick Astley: Never gonna hack you up...](http://www.smashingsecurity.com/73)
 
+* [Bertram Fiddle - A Victorian point and click adventure game](https://www.bertramfiddle.com/) 
+* [Adventures of Bertram Fiddle: Episode 1 for iOS](https://itunes.apple.com/gb/app/bertram-fiddle-episode-1-a-dreadly-business/id930404329?mt=8) 
 * [Adventures of Bertram Fiddle: Episode 1 for Android](https://play.google.com/store/apps/details?id=com.chorusworldwide.bertramep1&amp;hl=en_GB)
 * [Adventures of Bertram Fiddle: Episode 1 on Steam](http://store.steampowered.com/app/354680/Adventures_of_Bertram_Fiddle_Episode_1_A_Dreadly_Business/)
 * [security.txt - A proposed standard which allows websites to define security policies](https://securitytxt.org/)
@@ -912,14 +888,12 @@
 
 ### [Smashing Security: 072: Why are firms so cr*p with our private data?](http://www.smashingsecurity.com/72)
 
-* [Panerabread.com Leaks Millions of Customer Records](https://krebsonsecurity.com/2018/04/panerabread-com-leaks-millions-of-customer-records/)
-* [No, Panera Bread Doesn’t Take Security Seriously](https://medium.com/@djhoulihan/no-panera-bread-doesnt-take-security-seriously-bf078027f815)
-* [Don&#39;t blame Panera Bread&#39;s security guy just because he used to work at Equifax](https://www.grahamcluley.com/dont-blame-panera-breads-security-guy-just-because-he-used-to-work-at-equifax/)
 * [Viking seafarers may have navigated with legendary crystals](http://www.sciencemag.org/news/2018/04/viking-seafarers-may-have-navigated-legendary-crystals)
 * [BBC Fooled By Brexit Emoji April Fools Prank On Air](http://time.com/5224433/bbc-april-fools-emoji-prank-blooper/)
 
 ### [Smashing Security: 071: Pony-tailed pundit ponders privacy problems](http://www.smashingsecurity.com/71)
 
+* [TLDRLegal - Software Licenses Explained in Plain English](https://tldrlegal.com/) 
 * [Some Very Entertaining Plastic, Emulated at the Archive](http://blog.archive.org/2018/03/18/some-very-entertaining-plastic-emulated-at-the-archive/)
 * [Handheld History](https://archive.org/details/handheldhistory)
 * [This is what the Internet Archive&#39;s building looks like](https://twitter.com/mikko/status/971195762007859201)
@@ -928,6 +902,7 @@
 
 ### [Smashing Security: 070: Facebook and Cambridge Diabolica](http://www.smashingsecurity.com/70)
 
+* [StartPage Web Search](https://www.startpage.com/) 
 * [Introducing Cloudflare Workers](https://blog.cloudflare.com/introducing-cloudflare-workers/)
 * [The brand new Security Headers Cloudflare Worker](https://scotthelme.co.uk/security-headers-cloudflare-worker/)
 * [PGN Piano on YouTube](https://www.youtube.com/channel/UC4Xh4zRp2pbQ6sXBzxn15qA)
@@ -964,6 +939,10 @@
 
 ### [Smashing Security: 066: Passwords, pirates, and postcards](http://www.smashingsecurity.com/66)
 
+* [Punycode - Wikipedia](https://en.wikipedia.org/wiki/Punycode) 
+* [IDN Safe for Chrome](https://chrome.google.com/webstore/detail/idn-safe/kegeenojcnijgmfgkcokknkbpmjcabdm) 
+* [IDN Safe for Firefox](https://addons.mozilla.org/en-GB/firefox/addon/idn-safe/) 
+* [IDN Safe for Opera](https://addons.opera.com/en/extensions/details/idn-safe/?display=en) 
 * [Firefox users - Spot phishing URL&#39;s more easily by enabling Show Punycode](https://twitter.com/MickD/status/965610955366387712)
 * [Privacy.com](https://privacy.com/) — Dave&#39;s recommendation, not ours)
 * [How to remove your credit card information from your iPhone](http://www.idownloadblog.com/2017/01/25/how-to-remove-credit-card-information-from-iphone/)
@@ -1003,11 +982,6 @@
 
 ### [Smashing Security: 061: Fallout over Hawaii missile false alarm](http://www.smashingsecurity.com/61)
 
-* [@ruanyf on Twitter's picture of a visual display for a Chinese lavatory](https://twitter.com/ruanyf/status/952689006155726848)
-* [Police give out infected USBs as prizes in cybersecurity quiz](https://nakedsecurity.sophos.com/2018/01/12/police-give-out-infected-usbs-as-prizes-in-cybersecurity-quiz/)
-* [IBM distributes USB malware cocktail at AusCERT security conference](https://nakedsecurity.sophos.com/2010/05/21/ibm-distributes-usb-malware-cocktail-auscert-security-conference/)
-* [IBM has been shipping malware-infected USB sticks](https://www.grahamcluley.com/ibm-shipping-malware-infected-usb-sticks/)
-* [Olympus Stylus Tough camera carries malware infection](https://nakedsecurity.sophos.com/2010/06/08/olympus-stylus-tough-camera-carries-malware-infection/)
 * [Google Arts and Culture app: How to find which famous painting you look like – and why people don&#39;t want to](http://www.independent.co.uk/life-style/gadgets-and-tech/news/google-arts-culture-app-download-painting-look-like-find-out-how-to-iphone-android-a8159991.html)
 * [Google Arts &amp; Culture](https://www.google.com/culturalinstitute/beta/)
 
@@ -1020,10 +994,6 @@
 
 ### [Smashing Security: 058: Face ID, Firefox, and Windows SNAFUs, plus Bitcoin FOMO](http://www.smashingsecurity.com/58)
 
-* [Bitcoin FOMO Calculator](https://bitcoinfomo.club/)
-* [Oh, My Coins! - Database Of Lost Crypto Assets](http://www.ohmycoins.xyz/)
-* [Missing: hard drive containing Bitcoins worth £4m in Newport landfill site](https://www.theguardian.com/technology/2013/nov/27/hard-drive-bitcoin-landfill-site)
-* [Is Bulgaria sitting on $3.5 BILLION worth of Bitcoin seized from criminals?](https://www.grahamcluley.com/bulgaria-sitting-3-5-billion-worth-bitcoin-seized-criminals/)
 * [WeCroak on the App Store](https://itunes.apple.com/us/app/wecroak/id1248149943?mt=8)
 * [Nose Dance! The Original Nose Twerking Miss Santa Face Paint! - YouTube](https://www.youtube.com/watch?v=7aysU9OYroQ)
 * [Christmas Nose Twerk! Grinch &amp; Max! - YouTube](https://www.youtube.com/watch?v=6hyINqzAr8E)
@@ -1050,6 +1020,7 @@
 
 ### [Smashing Security: 053: Game of Thrones, a major Amazon cloud leak, and web tracking gone crazy](http://www.smashingsecurity.com/53)
 
+* [Paddington 2 - the movie](https://en.wikipedia.org/wiki/Paddington_2) 
 * [Paddington Bear, Singin&#39; in the rain](https://www.youtube.com/watch?v=w49H_TRB5vI)
 * [Baby Driver - the movie](http://www.imdb.com/title/tt3890160/)
 * [Baby Driver - 6-Minute Opening Clip](https://www.youtube.com/watch?v=6XMuUVw7TOM)
@@ -1065,6 +1036,7 @@
 
 ### [Smashing Security: 051: Robots, romance, passwords, and CrunchyRoll](http://www.smashingsecurity.com/51)
 
+* [Mythbuster seeks cash for roller skates to wear in virtual reality](https://www.theregister.co.uk/2017/11/08/jamie_hyneman_crowdfunds_electric_roller_skates_for_vr/) 
 * [Jamie Hyneman&#39;s Electric Shoes - YouTube](https://www.youtube.com/watch?v=jfn9sXgZd3k)
 * [Swear Trek (@swear_trek) on Twitter](https://twitter.com/swear_trek)
 * [Swear Who (@swear_who) on Twitter](https://twitter.com/swear_who)
@@ -1081,7 +1053,6 @@
 
 ### [Smashing Security: 049: Hacking funeral homes, crypto mining websites, and careful with that hairspray](http://www.smashingsecurity.com/49)
 
-* [Questions and answers on proposed ban on laptops in luggage - The Washington Post](https://www.washingtonpost.com/politics/federal_government/questions-and-answers-on-proposed-ban-on-laptops-in-luggage/2017/10/21/5126d366-b654-11e7-9b93-b97043e57a22_story.html?utm_term=.dc3ad80b921d) (Broken link)
 * [Inspire Candle - Twelve South](https://www.twelvesouth.com/product/inspire-candle) (Broken link)
 * [BBC Two - The Detectives: Murder on the Streets](http://www.bbc.co.uk/programmes/b0961x79)
 * [This Chrome extension blocks audio and video autoplay on any website](https://thenextweb.com/apps/2017/02/20/chrome-autoplay-facebook-audio-video/)
@@ -1105,7 +1076,6 @@
 
 ### [Smashing Security: 046: Good beard bad beard](http://www.smashingsecurity.com/46)
 
-* [Wi-Fi sex toy with built-in camera fails penetration test](https://forums.theregister.co.uk/forum/1/2017/04/04/intimate_adult_toy_fails_penetration_test/) - The Register Forums.
 * [Topo by Ergodriven](http://ergodriven.com/topo/)
 * [Dirk Gently&#39;s Holistic Detective Agency](http://www.imdb.com/title/tt4047038/?ref_=nv_sr_1) - IMDb.
 * [Dead roach in Utah man’s milkshake becomes Twitter hero](https://www.ksl.com/?sid=45957914&amp;nid=148&amp;title=dead-roach-in-utah-mans-milkshake-becomes-twitter-hero) - KSL.com.
@@ -1180,6 +1150,7 @@
 
 ### [Smashing Security: 033: 1Password, net neutrality, and spatchcock chicken](https://www.smashingsecurity.com/33)
 
+* [Southern Rail on Twitter](https://twitter.com/SouthernRailUK/status/884769193366867968)  — Eddie takes over Southern Rail's Twitter account.
 * [Southern on Twitter: &quot;Hi, Eddie here! Here on Work Experience and ready to answer your questions! 😊&quot;](https://twitter.com/SouthernRailUK/status/884769193366867968) - Twitter.
 * [The Red Pill](https://en.wikipedia.org/wiki/The_Red_Pill) - Wikipedia.
 * [Rapidfire Chimney Starter | Official Weber® Website](https://www.weber.com/GB/en/accessories/charcoal-briquettes/rapidfire-chimney-starter)
@@ -1195,8 +1166,6 @@
 * [Cybersecurity History Podcast | Malicious Life](https://malicious.life/)
 * [50th anniversary of the ATM opens debate about mobile payments](https://www.theregister.co.uk/2017/06/27/atm_at_50/) - The Register.
 * [The Bright Sessions](http://www.thebrightsessions.com/)
-
-### [Smashing Security: 030: GDPR - The good and the bad](http://www.smashingsecurity.com/30)
 
 ### [Smashing Security: 029: Exploits to get your English teeth into](https://www.smashingsecurity.com/29)
 
