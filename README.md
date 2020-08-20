@@ -1,3 +1,9 @@
+### [Smashing Security: 192: Ritz and robocalls with Rory](https://www.smashingsecurity.com/192) 
+
+* [Pick of the Week archive](https://www.smashingsecurity.com/pick-of-the-week)  — Smashing Security.
+* [13 Minutes to the Moon](https://www.bbc.co.uk/programmes/w13xttx2/episodes/downloads)  — BBC World Service.
+* [Borrasca](https://www.qcodemedia.com/borrasca)  — QCODE.
+
 ### [Smashing Security: 191: We are on the bird](https://www.smashingsecurity.com/191) 
 
 * [Quoridor](https://en.wikipedia.org/wiki/Quoridor)  — Wikipedia.
